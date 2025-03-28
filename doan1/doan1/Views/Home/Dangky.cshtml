@@ -52,53 +52,105 @@
                         @ViewData["succes"]
                     </div>
                 }
-                <form class="login100-form validate-form" method="post" action="@Url.Action("Login", "Home")">
-                    <span class="login100-form-logo">
-                        <i class="zmdi zmdi-landscape"></i>
-                    </span>
+            <form class="login100-form validate-form" id="registrationForm" method="post" action="~/Home/Dangky" onsubmit="return validateForm()">
+                <span class="login100-form-logo">
+                    <i class="zmdi zmdi-landscape"></i>
+                </span>
 
-                    <span class="login100-form-title p-b-34 p-t-27">
-                        Log in
-                    </span>
+                <span class="login100-form-title p-b-34 p-t-27">
+                    Register
+                </span>
 
-                    <div class="wrap-input100 validate-input" data-validate="Enter username">
-                        <input class="input100" id="loginInput" type="text" name="loginInput" placeholder="Username" value="@ViewBag.EmailOrPhone">
-                        <span class="focus-input100" data-placeholder="&#xf207;"></span>
-                    </div>
+                <div class="wrap-input100 validate-input" data-validate="Enter username">
+                    <input class="input100" id="HoTen" type="text" name="HoTen" placeholder="Họ và tên">
+                    <span class="focus-input100" data-placeholder="&#xf207;"></span>
+                </div>
 
-                    <div class="wrap-input100 validate-input" data-validate="Enter password">
-                        <input class="input100" type="password" id="passwordInput" name="passwordInput" placeholder="Password">
-                        <span class="focus-input100" data-placeholder="&#xf191;"></span>
-                    </div>
+                <div class="wrap-input100 validate-input" data-validate="Enter tel">
+                    <input class="input100" id="SoDienThoai" type="tel" name="SoDienThoai" placeholder="Số điện thoại">
+                    <span class="focus-input100" data-placeholder="&#xf191;"></span>
+                </div>
+                <div class="wrap-input100 validate-input" data-validate="Enter email">
+                    <input class="input100" id="Email" type="email" name="Email" placeholder="Email">
+                    <span class="focus-input100" data-placeholder="&#xf191;"></span>
+                </div>
+                <div class="wrap-input100 validate-input" data-validate="Enter password">
+                    <input class="input100" id="MatKhau" type="password" name="MatKhau" placeholder="Mật Khẩu">
+                    <span class="focus-input100" data-placeholder="&#xf191;"></span>
+                </div>
+                <div class="wrap-input100 validate-input" data-validate="Enter password">
+                    <input class="input100" id="NhapLaiMatKhau" type="password" name="NhapLaiMatKhau" placeholder="Nhập Lại Mật Khẩu">
+                    <span class="focus-input100" data-placeholder="&#xf191;"></span>
+                </div>
 
-                    <div class="contact100-form-checkbox">
-                        <input class="input-checkbox100" id="ckb1" type="checkbox" name="remember-me">
-                        <label class="label-checkbox100" for="ckb1">
-                            Remember me
-                        </label>
-                    </div>
 
-                    <div class="container-login100-form-btn">
-                        <button class="login100-form-btn">
-                            Login
-                        </button>
-                    </div>
 
-                    <div class="text-center p-t-90">
-                        <a class="txt1" href="#">
-                            Forgot Password?
-                        </a>
-                        <a style="margin-left:20px;" class="txt1" href="/Home/Dangky">
-                            Register
-                        </a>
-                    </div>
-                </form>
+                <div class="container-login100-form-btn">
+                    <button type="submit" class="login100-form-btn">
+                        Save
+                    </button>
+                </div>
+
+            
+            </form>
             </div>
         </div>
     </div>
 
 
     <div id="dropDownSelect1"></div>
+    <script>
+        function validateForm() {
+            // Lấy giá trị từ các ô input
+            var hoTen = document.forms["registrationForm"]["HoTen"].value;
+            var soDienThoai = document.forms["registrationForm"]["SoDienThoai"].value;
+            var email = document.forms["registrationForm"]["Email"].value;
+            var matKhau = document.forms["registrationForm"]["MatKhau"].value;
+            var nhapLaiMatKhau = document.forms["registrationForm"]["NhapLaiMatKhau"].value;
+
+            // Kiểm tra từng điều kiện
+            if (hoTen.trim() === "") {
+                alert("Họ và tên không được bỏ trống");
+                return false;
+            }
+
+            if (!/^\d{10}$/.test(soDienThoai)) {
+                alert("Số điện thoại phải có 10 chữ số");
+                return false;
+            }
+
+            // Chú ý: Đối với biểu thức chính quy liên quan đến email, thêm dấu backslash trước ký tự
+            if (!/\S+@@\S+\.\S+/.test(email)) {
+                alert("Email không hợp lệ");
+                return false;
+            }
+
+            if (matKhau.length < 8 || !/[A-Z]/.test(matKhau) || !/[!@@#$%^&*()_+]/.test(matKhau)) {
+                alert("Mật khẩu không hợp lệ mật khẩu phải tối thiểu có 8 kí tự trong đó có 1 ký tự viết hoa 1 ký tự đặc biệt");
+                return false;
+            }
+
+            if (matKhau !== nhapLaiMatKhau) {
+                alert("Mật khẩu và Nhập lại mật khẩu không trùng khớp");
+                return false;
+            }
+
+            // Nếu tất cả đều hợp lệ, cho phép submit
+            return true;
+        }
+        $(document).ready(function () {
+
+            setTimeout(function () {
+                $("#err").fadeOut();
+            }, 1000); // Thời gian hiển thị (ms)
+        });
+        $(document).ready(function () {
+
+            setTimeout(function () {
+                $("#success").fadeOut();
+            }, 1000); // Thời gian hiển thị (ms)
+        });
+    </script>
 
     <!--===============================================================================================-->
     <script src="~/ContenLogin/vendor/jquery/jquery-3.2.1.min.js"></script>
