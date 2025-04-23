@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.5.1\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.5.1\build\EntityFramework.props')" />
   <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
@@ -45,7 +46,22 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.5.1\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.5.1\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Identity.Core, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.Identity.Core.2.2.4\lib\net45\Microsoft.AspNet.Identity.Core.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="PagedList, Version=1.17.0.0, Culture=neutral, PublicKeyToken=abbb863e9397c5e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\PagedList.1.17.0.0\lib\net40\PagedList.dll</HintPath>
+    </Reference>
+    <Reference Include="PagedList.Mvc, Version=4.5.0.0, Culture=neutral, PublicKeyToken=abbb863e9397c5e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\PagedList.Mvc.4.5.0.0\lib\net40\PagedList.Mvc.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Data.Linq" />
@@ -111,6 +127,9 @@
       <Private>True</Private>
       <HintPath>..\packages\Antlr.3.5.0.2\lib\Antlr3.Runtime.dll</HintPath>
     </Reference>
+    <Reference Include="X.PagedList, Version=10.5.7.0, Culture=neutral, PublicKeyToken=525ccaa9023f010c, processorArchitecture=MSIL">
+      <HintPath>..\packages\X.PagedList.10.5.7\lib\netstandard2.0\X.PagedList.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
@@ -130,6 +149,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>DataBase.dbml</DependentUpon>
     </Compile>
+    <Compile Include="Models\SavePreviousPageAttribute.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -191,9 +211,136 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\bootstrap.rtl.css" />
     <Content Include="Content\bootstrap.rtl.min.css" />
+    <Content Include="Content\Detail.css" />
+    <Content Include="Content\PagedList.css" />
+    <Content Include="Content\style.css" />
+    <Content Include="Content\title.css" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="IMG\1.jpg" />
+    <Content Include="IMG\130318.jpg" />
+    <Content Include="IMG\130499.jpg" />
+    <Content Include="IMG\2.jpg" />
+    <Content Include="IMG\3.jpg" />
+    <Content Include="IMG\4.jpg" />
+    <Content Include="IMG\5.jpg" />
+    <Content Include="IMG\6.jpg" />
+    <Content Include="IMG\7.jpg" />
+    <Content Include="IMG\700x1000_18_.jpg" />
+    <Content Include="IMG\8.jpg" />
+    <Content Include="IMG\9.jpg" />
+    <Content Include="IMG\ahbp.jpg" />
+    <Content Include="IMG\bap.jpeg" />
+    <Content Include="IMG\bg.gif" />
+    <Content Include="IMG\C1.jpg" />
+    <Content Include="IMG\C3.jpg" />
+    <Content Include="IMG\C4.jpg" />
+    <Content Include="IMG\C5.png" />
+    <Content Include="IMG\caubeo.jpg" />
+    <Content Include="IMG\cb1.png" />
+    <Content Include="IMG\cb2.png" />
+    <Content Include="IMG\cb3.png" />
+    <Content Include="IMG\cb4.png" />
+    <Content Include="IMG\cb5.png" />
+    <Content Include="IMG\cb6.png" />
+    <Content Include="IMG\combo.png" />
+    <Content Include="IMG\cristiano-ronaldo-3840x2124-9595.jpg" />
+    <Content Include="IMG\D3.jpg" />
+    <Content Include="IMG\godzila.jpg" />
+    <Content Include="IMG\hinh-nen-thuong-hai-toa-nha-choc-troi-thanh-pho-ve-dem-nhin-tu-tren-xuong-1632359382.jpg" />
+    <Content Include="IMG\IMG20210211230417.jpg" />
+    <Content Include="IMG\Kt.jpg" />
+    <Content Include="IMG\kungfupanda4.jpg" />
+    <Content Include="IMG\ky-si-bong-dem-troi-day-the-dark-knight-rises-2012.png" />
+    <Content Include="IMG\L1.jpeg" />
+    <Content Include="IMG\lr-main-poster-printing.jpg" />
+    <Content Include="IMG\M.png" />
+    <Content Include="IMG\new1.png" />
+    <Content Include="IMG\new2.jpg" />
+    <Content Include="IMG\new3.jpg" />
+    <Content Include="IMG\new4.png" />
+    <Content Include="IMG\new5.jpg" />
+    <Content Include="IMG\new6.jpg" />
+    <Content Include="IMG\P1.png" />
+    <Content Include="IMG\P2.png" />
+    <Content Include="IMG\P3.png" />
+    <Content Include="IMG\P4.png" />
+    <Content Include="IMG\P5.png" />
+    <Content Include="IMG\PANDA.jpg" />
+    <Content Include="IMG\phim.jpg" />
+    <Content Include="IMG\phimmai.jpg" />
+    <Content Include="IMG\pngtree-movie-ticket-icon-coupon-vector-isolated-png-image_1716734.jpg" />
+    <Content Include="IMG\QRCode_638368784827031523.png" />
+    <Content Include="IMG\QRCode_638368794922540931.png" />
+    <Content Include="IMG\QRCode_638369716316556343.png" />
+    <Content Include="IMG\QRCode_638370408167189314.png" />
+    <Content Include="IMG\QRCode_638439734123482767.png" />
+    <Content Include="IMG\QRCode_638444017308021098.png" />
+    <Content Include="IMG\QRCode_638448368680062464.png" />
+    <Content Include="IMG\QRCode_638448382358711758.png" />
+    <Content Include="IMG\QRCode_638448384428913205.png" />
+    <Content Include="IMG\QRCode_638448385497009584.png" />
+    <Content Include="IMG\QRCode_638448387021328450.png" />
+    <Content Include="IMG\QRCode_638448390059866863.png" />
+    <Content Include="IMG\QRCode_638448391709921601.png" />
+    <Content Include="IMG\QRCode_638448392802980846.png" />
+    <Content Include="IMG\QRCode_638448394122238682.png" />
+    <Content Include="IMG\QRCode_638448396022521286.png" />
+    <Content Include="IMG\QRCode_638448397279820508.png" />
+    <Content Include="IMG\QRCode_638448403743998466.png" />
+    <Content Include="IMG\QRCode_638448406336124863.png" />
+    <Content Include="IMG\QRCode_638448411452155712.png" />
+    <Content Include="IMG\QRCode_638448414736152196.png" />
+    <Content Include="IMG\QRCode_638448416306651258.png" />
+    <Content Include="IMG\QRCode_638448423358748604.png" />
+    <Content Include="IMG\QRCode_638448425501539736.png" />
+    <Content Include="IMG\QRCode_638451804720293073.png" />
+    <Content Include="IMG\QRCode_638452367939996547.png" />
+    <Content Include="IMG\QRCode_638468307673092428.png" />
+    <Content Include="IMG\QRCode_638473383518716726.png" />
+    <Content Include="IMG\QRCode_638479201611401777.png" />
+    <Content Include="IMG\QRCode_638481082076769702.png" />
+    <Content Include="IMG\QRCode_638498976020362138.png" />
+    <Content Include="IMG\QRCode_638500199319242864.png" />
+    <Content Include="IMG\QRCode_638502612244987465.png" />
+    <Content Include="IMG\QRCode_638502641396830525.png" />
+    <Content Include="IMG\QRCode_638502843307084264.png" />
+    <Content Include="IMG\QRCode_638502853510509879.png" />
+    <Content Include="IMG\QRCode_638503289155562201.png" />
+    <Content Include="IMG\QRCode_638505432698077373.png" />
+    <Content Include="IMG\QRCode_638507655777506862.png" />
+    <Content Include="IMG\QRCode_638534797256302730.png" />
+    <Content Include="IMG\QRCode_638556369809420344.png" />
+    <Content Include="IMG\QRCode_638557256216499549.png" />
+    <Content Include="IMG\QRCode_638677351077193537.png" />
+    <Content Include="IMG\QRCode_638677356532449549.png" />
+    <Content Include="IMG\QRCode_638758358502175026.png" />
+    <Content Include="IMG\quatmo.jpg" />
+    <Content Include="IMG\rsz_56245l07_goat_vietnam_apac_poster_1sht.jpg" />
+    <Content Include="IMG\slider2.jpg" />
+    <Content Include="IMG\slider4.jpeg" />
+    <Content Include="IMG\slider5.jpg" />
+    <Content Include="IMG\slider6.jpg" />
+    <Content Include="IMG\T1.jpg" />
+    <Content Include="IMG\tebaoyumi.jpg" />
+    <Content Include="IMG\th.jpeg" />
+    <Content Include="IMG\the_dark_knight_rises___poster_release_date.jpg" />
+    <Content Include="IMG\trchyeu.jpg" />
+    <Content Include="IMG\ttv.jpg" />
+    <Content Include="IMG\U1.jpeg" />
+    <Content Include="IMG\U10.png" />
+    <Content Include="IMG\U11.png" />
+    <Content Include="IMG\U12.png" />
+    <Content Include="IMG\U13.png" />
+    <Content Include="IMG\U2.jpeg" />
+    <Content Include="IMG\U3.jpeg" />
+    <Content Include="IMG\U4.jpeg" />
+    <Content Include="IMG\U5.jpeg" />
+    <Content Include="IMG\U6.jpeg" />
+    <Content Include="IMG\U7.png" />
+    <Content Include="IMG\U8.png" />
+    <Content Include="IMG\U9.png" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
@@ -266,6 +413,7 @@
     <Content Include="ContenLogin\vendor\bootstrap\css\bootstrap-reboot.min.css.map" />
     <Content Include="ContenLogin\vendor\bootstrap\css\bootstrap.css.map" />
     <Content Include="ContenLogin\vendor\bootstrap\css\bootstrap.min.css.map" />
+    <Content Include="IMG\C2.webp" />
     <None Include="Models\DataBase.dbml.layout">
       <DependentUpon>DataBase.dbml</DependentUpon>
     </None>
@@ -296,6 +444,12 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\Login.cshtml" />
     <Content Include="Views\Home\Dangky.cshtml" />
+    <Content Include="Views\Shared\Footer.cshtml" />
+    <Content Include="Views\Shared\Layout.cshtml" />
+    <Content Include="Views\Shared\Navigation.cshtml" />
+    <Content Include="Views\Home\MovieShow.cshtml" />
+    <Content Include="Views\Home\MovieSoone.cshtml" />
+    <Content Include="Views\Home\Detail.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -363,7 +517,10 @@
       <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
     </PropertyGroup>
     <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.5.1\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.5.1\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.5.1\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.5.1\build\EntityFramework.targets'))" />
   </Target>
+  <Import Project="..\packages\EntityFramework.6.5.1\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.5.1\build\EntityFramework.targets')" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">
