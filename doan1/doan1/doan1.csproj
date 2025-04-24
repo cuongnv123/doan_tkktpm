@@ -211,9 +211,10 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\bootstrap.rtl.css" />
     <Content Include="Content\bootstrap.rtl.min.css" />
-    <Content Include="Content\Detail.css" />
+    <Content Include="Content\detail.css" />
     <Content Include="Content\PagedList.css" />
-    <Content Include="Content\style.css" />
+    <Content Include="Content\Style.css" />
+    <Content Include="Content\titleIndex.css" />
     <Content Include="Content\title.css" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
@@ -502,7 +503,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>53512</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>https://localhost:44307/</IISUrl>
+          <IISUrl>https://localhost:44307</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

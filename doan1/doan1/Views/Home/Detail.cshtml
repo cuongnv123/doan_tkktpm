@@ -5,8 +5,9 @@
     var user = Session["KH"] as doan1.Models.ThongTinCaNhan;
 }
 @model doan1.Models.Phim
-<link rel="stylesheet" href="~/Content/Detail.css">
+<link rel="stylesheet" href="~/Content/detail.css">
 <style>
+    /*Style of Comment*/
     .be-comment-block {
         margin-bottom: 50px !important;
         border: 1px solid #edeff2;
@@ -117,6 +118,7 @@
     .form-group textarea.form-input {
         height: 150px;
     }
+
     .custom-modal {
         background-color: #000; /* Màu đen */
         color: #fff; /* Màu chữ trắng */
@@ -260,13 +262,13 @@
         /* Transition */
         .select:hover::after {
             color: #f39c12;
-        }   
+        } 
 </style>
 <div class="container mt-4">
     <!-- Container cho video và tiêu đề -->
     <div class="row">
         <div class="col-md-12">
-            <h2 class="mb-3" style="margin-top: 6rem; text-align: center;  ">Trailer Phim</h2>
+            <h2 class="mb-3" style="margin-top: 10rem; text-align: center; font-family: 'Kanit';" >Trailer Phim</h2>
             <div class="video-container">
                 <!-- Mã nhúng video từ YouTube -->
                 <iframe src="@Model.Video" frameborder="0" allowfullscreen></iframe>

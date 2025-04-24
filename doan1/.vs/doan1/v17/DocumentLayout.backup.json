@@ -3,60 +3,72 @@
   "WorkspaceRootPath": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|d:\\work\\github\\damnm_qltv\\doan_tkktpm\\doan1\\doan1\\contenlogin\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|solutionrelative:doan1\\contenlogin\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|solutionrelative:doan1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|d:\\work\\github\\damnm_qltv\\doan_tkktpm\\doan1\\doan1\\models\\savepreviouspageattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|solutionrelative:doan1\\models\\savepreviouspageattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|d:\\work\\github\\damnm_qltv\\doan_tkktpm\\doan1\\doan1\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|solutionrelative:doan1\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\content\\detail.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|solutionrelative:doan1\\content\\detail.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|solutionrelative:doan1\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|solutionrelative:doan1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|d:\\work\\github\\damnm_qltv\\doan_tkktpm\\doan1\\doan1\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|solutionrelative:doan1\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|solutionrelative:doan1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|d:\\work\\github\\damnm_qltv\\doan_tkktpm\\doan1\\doan1\\content\\title.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|solutionrelative:doan1\\content\\title.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|solutionrelative:doan1\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|solutionrelative:doan1\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|solutionrelative:doan1\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|solutionrelative:doan1\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\views\\shared\\navigation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|solutionrelative:doan1\\views\\shared\\navigation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|d:\\work\\github\\damnm_qltv\\doan_tkktpm\\doan1\\doan1\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|solutionrelative:doan1\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\views\\shared\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|solutionrelative:doan1\\views\\shared\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\content\\titleindex.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|solutionrelative:doan1\\content\\titleindex.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\content\\title.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|solutionrelative:doan1\\content\\title.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|solutionrelative:doan1\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|d:\\work\\github\\damnm_qltv\\doan_tkktpm\\doan1\\doan1\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|solutionrelative:doan1\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|solutionrelative:doan1\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\models\\database.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|solutionrelative:doan1\\models\\database.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|solutionrelative:doan1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\views\\shared\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|solutionrelative:doan1\\views\\shared\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|solutionrelative:doan1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,12 +78,8 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/Acer_Aspire/Cinema/True/SqlTable/dbo.Phim.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|d:\\work\\github\\damnm_qltv\\doan_tkktpm\\doan1\\doan1\\views\\home\\moviesoone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\views\\home\\moviesoone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|solutionrelative:doan1\\views\\home\\moviesoone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|solutionrelative:doan1\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/Acer_Aspire/Cinema/True/SqlTable/dbo.ThongTinCaNhan.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
@@ -82,14 +90,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\views\\home\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|solutionrelative:doan1\\views\\home\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|solutionrelative:doan1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|solutionrelative:doan1\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6B468F1-5D4E-4F12-B78C-B641755E0181}|doan1\\doan1.csproj|D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -103,7 +103,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -111,137 +111,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main.css",
-              "DocumentMoniker": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\ContenLogin\\css\\main.css",
-              "RelativeDocumentMoniker": "doan1\\ContenLogin\\css\\main.css",
-              "ToolTip": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\ContenLogin\\css\\main.css",
-              "RelativeToolTip": "doan1\\ContenLogin\\css\\main.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-23T16:59:52.71Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SavePreviousPageAttribute.cs",
-              "DocumentMoniker": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Models\\SavePreviousPageAttribute.cs",
-              "RelativeDocumentMoniker": "doan1\\Models\\SavePreviousPageAttribute.cs",
-              "ToolTip": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Models\\SavePreviousPageAttribute.cs",
-              "RelativeToolTip": "doan1\\Models\\SavePreviousPageAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T16:54:55.611Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "doan1\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "doan1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGgAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-23T13:42:51.825Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DataBase.designer.cs",
-              "DocumentMoniker": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Models\\DataBase.designer.cs",
-              "RelativeDocumentMoniker": "doan1\\Models\\DataBase.designer.cs",
-              "ToolTip": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Models\\DataBase.designer.cs",
-              "RelativeToolTip": "doan1\\Models\\DataBase.designer.cs",
-              "ViewState": "AgIAAH4HAAAAAAAAAAAAwFsHAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T15:01:37.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "packages.config",
-              "DocumentMoniker": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\packages.config",
-              "RelativeDocumentMoniker": "doan1\\packages.config",
-              "ToolTip": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\packages.config",
-              "RelativeToolTip": "doan1\\packages.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Web.config",
+              "RelativeDocumentMoniker": "doan1\\Web.config",
+              "ToolTip": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Web.config",
+              "RelativeToolTip": "doan1\\Web.config",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-04-23T16:03:16.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "doan1\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "doan1\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAJ4AAAAAAAAAAAAmwLAAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T13:37:46.375Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "style.css",
-              "DocumentMoniker": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Content\\style.css",
-              "RelativeDocumentMoniker": "doan1\\Content\\style.css",
-              "ToolTip": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Content\\style.css",
-              "RelativeToolTip": "doan1\\Content\\style.css",
-              "ViewState": "AgIAADwAAAAAAAAAAAAjwEgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-23T16:28:06.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Views\\Home\\Detail.cshtml",
-              "RelativeDocumentMoniker": "doan1\\Views\\Home\\Detail.cshtml",
-              "ToolTip": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Views\\Home\\Detail.cshtml",
-              "RelativeToolTip": "doan1\\Views\\Home\\Detail.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-23T15:59:35.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "title.css",
-              "DocumentMoniker": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Content\\title.css",
-              "RelativeDocumentMoniker": "doan1\\Content\\title.css",
-              "ToolTip": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Content\\title.css",
-              "RelativeToolTip": "doan1\\Content\\title.css",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADsAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-23T16:33:38.39Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Navigation.cshtml",
-              "DocumentMoniker": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Views\\Shared\\Navigation.cshtml",
-              "RelativeDocumentMoniker": "doan1\\Views\\Shared\\Navigation.cshtml",
-              "ToolTip": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Views\\Shared\\Navigation.cshtml",
-              "RelativeToolTip": "doan1\\Views\\Shared\\Navigation.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-23T14:00:43.931Z",
+              "WhenOpened": "2025-04-23T13:38:11.267Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Style.css",
+              "DocumentMoniker": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Content\\Style.css",
+              "RelativeDocumentMoniker": "doan1\\Content\\Style.css",
+              "ToolTip": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Content\\Style.css",
+              "RelativeToolTip": "doan1\\Content\\Style.css",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-24T14:07:55.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "doan1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "doan1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAE8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T13:42:51.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Web.Debug.config",
+              "RelativeDocumentMoniker": "doan1\\Web.Debug.config",
+              "ToolTip": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Web.Debug.config",
+              "RelativeToolTip": "doan1\\Web.Debug.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-24T16:09:28.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Site.css",
               "DocumentMoniker": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Content\\Site.css",
               "RelativeDocumentMoniker": "doan1\\Content\\Site.css",
@@ -249,107 +168,134 @@
               "RelativeToolTip": "doan1\\Content\\Site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-23T16:24:51.534Z",
+              "WhenOpened": "2025-04-23T16:24:51.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "detail.css",
+              "DocumentMoniker": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Content\\detail.css",
+              "RelativeDocumentMoniker": "doan1\\Content\\detail.css",
+              "ToolTip": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Content\\detail.css",
+              "RelativeToolTip": "doan1\\Content\\detail.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-24T15:42:28.387Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Footer.cshtml",
-              "DocumentMoniker": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Views\\Shared\\Footer.cshtml",
-              "RelativeDocumentMoniker": "doan1\\Views\\Shared\\Footer.cshtml",
-              "ToolTip": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Views\\Shared\\Footer.cshtml",
-              "RelativeToolTip": "doan1\\Views\\Shared\\Footer.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Views\\Home\\Detail.cshtml",
+              "RelativeDocumentMoniker": "doan1\\Views\\Home\\Detail.cshtml",
+              "ToolTip": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Views\\Home\\Detail.cshtml",
+              "RelativeToolTip": "doan1\\Views\\Home\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-23T14:21:33.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "MovieSoone.cshtml",
-              "DocumentMoniker": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Views\\Home\\MovieSoone.cshtml",
-              "RelativeDocumentMoniker": "doan1\\Views\\Home\\MovieSoone.cshtml",
-              "ToolTip": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Views\\Home\\MovieSoone.cshtml",
-              "RelativeToolTip": "doan1\\Views\\Home\\MovieSoone.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-23T15:42:54.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Web.config",
-              "DocumentMoniker": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Web.config",
-              "RelativeDocumentMoniker": "doan1\\Web.config",
-              "ToolTip": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Web.config",
-              "RelativeToolTip": "doan1\\Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAQAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-04-23T13:38:11.267Z",
+              "WhenOpened": "2025-04-23T15:59:35.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "doan1\\App_Start\\RouteConfig.cs",
-              "ToolTip": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\App_Start\\RouteConfig.cs",
-              "RelativeToolTip": "doan1\\App_Start\\RouteConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABEAAAAAAAAAA==",
+              "Title": "Footer.cshtml",
+              "DocumentMoniker": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Views\\Shared\\Footer.cshtml",
+              "RelativeDocumentMoniker": "doan1\\Views\\Shared\\Footer.cshtml",
+              "ToolTip": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Views\\Shared\\Footer.cshtml",
+              "RelativeToolTip": "doan1\\Views\\Shared\\Footer.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T14:20:45.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Views\\Web.config",
+              "RelativeDocumentMoniker": "doan1\\Views\\Web.config",
+              "ToolTip": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Views\\Web.config",
+              "RelativeToolTip": "doan1\\Views\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-23T14:03:54.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Global.asax.cs",
+              "RelativeDocumentMoniker": "doan1\\Global.asax.cs",
+              "ToolTip": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Global.asax.cs",
+              "RelativeToolTip": "doan1\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T13:39:20.382Z",
+              "WhenOpened": "2025-04-24T16:05:08.962Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Navigation.cshtml",
+              "DocumentMoniker": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Views\\Shared\\Navigation.cshtml",
+              "RelativeDocumentMoniker": "doan1\\Views\\Shared\\Navigation.cshtml",
+              "ToolTip": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Views\\Shared\\Navigation.cshtml",
+              "RelativeToolTip": "doan1\\Views\\Shared\\Navigation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T14:20:49.317Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "title.css",
+              "DocumentMoniker": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Content\\title.css",
+              "RelativeDocumentMoniker": "doan1\\Content\\title.css",
+              "ToolTip": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Content\\title.css",
+              "RelativeToolTip": "doan1\\Content\\title.css",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAADsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-23T16:33:38.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\packages.config",
+              "RelativeDocumentMoniker": "doan1\\packages.config",
+              "ToolTip": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\packages.config",
+              "RelativeToolTip": "doan1\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-23T16:03:16.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Layout.cshtml",
               "DocumentMoniker": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Views\\Shared\\Layout.cshtml",
               "RelativeDocumentMoniker": "doan1\\Views\\Shared\\Layout.cshtml",
               "ToolTip": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Views\\Shared\\Layout.cshtml",
               "RelativeToolTip": "doan1\\Views\\Shared\\Layout.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAA4AAABRAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-23T14:06:20.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T14:23:19.828Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "dbo.TaiKhoan [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/Acer_Aspire/Cinema/True/SqlTable/dbo.TaiKhoan.sql",
-              "ToolTip": "dbo.TaiKhoan [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-04-23T15:25:57.901Z",
-              "EditorCaption": ""
+              "DocumentIndex": 12,
+              "Title": "titleIndex.css",
+              "DocumentMoniker": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Content\\titleIndex.css",
+              "RelativeDocumentMoniker": "doan1\\Content\\titleIndex.css",
+              "ToolTip": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Content\\titleIndex.css",
+              "RelativeToolTip": "doan1\\Content\\titleIndex.css",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-24T14:17:19.777Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "dbo.Phim [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/Acer_Aspire/Cinema/True/SqlTable/dbo.Phim.sql",
-              "ToolTip": "dbo.Phim [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-04-23T15:44:13.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "dbo.ThongTinCaNhan [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/Acer_Aspire/Cinema/True/SqlTable/dbo.ThongTinCaNhan.sql",
-              "ToolTip": "dbo.ThongTinCaNhan [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-04-23T15:25:31.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Views\\Home\\Login.cshtml",
               "RelativeDocumentMoniker": "doan1\\Views\\Home\\Login.cshtml",
@@ -357,12 +303,74 @@
               "RelativeToolTip": "doan1\\Views\\Home\\Login.cshtml",
               "ViewState": "AgIAACQAAAAAAAAAAAAAADYAAABuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-23T13:37:45.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T13:37:45.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "doan1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "doan1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAmwLAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T13:37:46.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MovieSoone.cshtml",
+              "DocumentMoniker": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Views\\Home\\MovieSoone.cshtml",
+              "RelativeDocumentMoniker": "doan1\\Views\\Home\\MovieSoone.cshtml",
+              "ToolTip": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Views\\Home\\MovieSoone.cshtml",
+              "RelativeToolTip": "doan1\\Views\\Home\\MovieSoone.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T15:42:54.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "doan1\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "doan1\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T13:39:20.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "dbo.TaiKhoan.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/Acer_Aspire/Cinema/True/SqlTable/dbo.TaiKhoan.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/Acer_Aspire/Cinema/True/SqlTable/dbo.TaiKhoan.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-23T15:25:57.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "dbo.Phim.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/Acer_Aspire/Cinema/True/SqlTable/dbo.Phim.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/Acer_Aspire/Cinema/True/SqlTable/dbo.Phim.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-23T15:44:13.107Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
+              "Title": "dbo.ThongTinCaNhan.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/Acer_Aspire/Cinema/True/SqlTable/dbo.ThongTinCaNhan.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/Acer_Aspire/Cinema/True/SqlTable/dbo.ThongTinCaNhan.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-23T15:25:31.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Dangky.cshtml",
               "DocumentMoniker": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Views\\Home\\Dangky.cshtml",
               "RelativeDocumentMoniker": "doan1\\Views\\Home\\Dangky.cshtml",
@@ -370,34 +378,7 @@
               "RelativeToolTip": "doan1\\Views\\Home\\Dangky.cshtml",
               "ViewState": "AgIAAE0AAAAAAAAAAMBdwFMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-23T13:42:49.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "doan1\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "doan1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-23T14:13:43.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Web.config",
-              "DocumentMoniker": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Views\\Web.config",
-              "RelativeDocumentMoniker": "doan1\\Views\\Web.config",
-              "ToolTip": "D:\\Work\\GitHub\\DAMNM_QLTV\\doan_tkktpm\\doan1\\doan1\\Views\\Web.config",
-              "RelativeToolTip": "doan1\\Views\\Web.config",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-04-23T14:03:54.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T13:42:49.958Z"
             },
             {
               "$type": "Document",
@@ -409,8 +390,7 @@
               "RelativeToolTip": "doan1\\Views\\Home\\About.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-23T13:37:46.364Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T13:37:46.364Z"
             }
           ]
         }
