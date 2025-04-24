@@ -9,6 +9,7 @@ using System.Text;
 using System.Web;
 using System.Web.Mvc;
 using System.Web.Management;
+using System.Data.Entity;
 
 namespace doan1.Controllers
 {
@@ -17,7 +18,8 @@ namespace doan1.Controllers
         DataBaseDataContext db = new DataBaseDataContext("");
         public ActionResult Index()
         {
-            return View();
+            var phim = db.Phims.ToList();
+            return View(phim);
         }
         public ActionResult Dangky(string succes, string err)
         {
@@ -161,6 +163,18 @@ namespace doan1.Controllers
             // Trường hợp không xác định loại thông tin, trả về false
             return false;
 
+        }
+
+        [SavePreviousPage]
+        public ActionResult Detail(int id)
+        {
+            var binhLuans = db.BinhLuans.Where(u=>u.MaPhim==id)
+            .Include(b => b.ThongTinCaNhan)
+            .ToList();
+
+            ViewBag.BL = binhLuans;
+            var ct = db.Phims.SingleOrDefault(u=>u.MaPhim==id);
+            return View(ct);
         }
     }
 }
