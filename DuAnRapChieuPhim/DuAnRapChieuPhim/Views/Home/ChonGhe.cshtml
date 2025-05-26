@@ -1,0 +1,303 @@
+﻿@{ 
+    var user = Session["KH"] as DuAnRapChieuPhim.Models.ThongTinCaNhan;
+    string ten = Session["Ten"] as string;
+}
+
+@model IEnumerable<DuAnRapChieuPhim.Models.Ghe>
+<!DOCTYPE html>
+<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+<link rel="stylesheet" href="~/Content/style2.css">
+<body>
+
+    <div class="movie-container">
+        <h1 style="margin-top:120px">NVC Box</h1>
+    </div>
+
+    <ul class="showcase">
+        <li>
+            <div class="seat">A0</div>
+            <small>Còn trống</small>
+        </li>
+        <li>
+            <div class="seat selected">A0</div>
+            <small>Đang chọn</small>
+        </li>
+        <li>
+            <div class="seat occupied">A0</div>
+            <small>Đã được chọn</small>
+        </li>
+    </ul>
+
+    <div class="container">
+        <div class="screen"></div>
+        @for (int i = 0; i < Model.Count(); i += 12)
+        {
+            <div class="row">
+
+                @for (int j = 0; j < 12; j++)
+                {
+                    var index = i + j;
+                    if (index < Model.Count())
+                    {
+                        var ghe = Model.ElementAt(index);
+                        if (ghe.TrangThai.Contains("Trống"))
+                        {
+                            <div class="seat " style="font-size: 12px; color: black; width: 22px; height: 20px;font-weight:bold" data-giatien="@ghe.GiaTien" data-ten="@ghe.MaGhe" data-tg="@ghe.TenGhe">@ghe.TenGhe</div>
+                        }
+                        else
+                        {
+                            <div class="seat occupied" style="font-size: 12px; color: black; width: 22px; height: 20px; font-weight: bold ">@ghe.TenGhe</div>
+                        }
+                    }
+                }
+
+            </div>
+
+        }
+    </div>
+
+    <center style="margin-bottom:60px;">
+        @if (user != null)
+        {
+            if (ViewBag.LichChieu != null)
+            {
+                <div class="content" style="margin-top:50px">
+                    <form class="form-container">
+                        <button type="button" class="button left-button" onclick="goBack()">&larr; Back</button>
+                        <div class="form-column">
+                            <img src="~/IMG/@Session["Hinh"]" alt="Poster phim" class="img-fluid animate__animated animate__zoomIn" style="width: 130px; height: 170px;">
+                        </div>
+                        <div class="form-column">
+                            <p>Ngôn ngữ: @ViewBag.LichChieu.NgonNgu</p>
+                            <p>Giờ chiếu: @ViewBag.LichChieu.GioChieu</p>
+                            <p>Giờ kết thúc: @ViewBag.LichChieu.GioKetThuc</p>
+                        </div>
+                        <div class="form-column">
+                            <p>Phòng chiếu: @ViewBag.LichChieu.Phong</p>
+                            <p>Tên phim: @ten</p>
+                            <p>Ngày chiếu: @ViewBag.LichChieu.NgayChieu.ToShortDateString()</p>
+                        </div>
+                        <div class="form-column">
+                            <div>
+                                <p id="ss">
+                                    Tiền phim : 0
+                                </p>
+                                <p id="combo">
+                                    Tiền Combo : 0
+                                </p>
+                                <p id="count">
+                                    Số ghế bạn đã chọn : 0
+                                </p>
+                            </div>
+                        </div>
+                        <button type="button" class="button right-button" onclick="redirectToCombo()">&rarr; Next </button>
+
+                    </form>
+                </div>
+            }
+        }
+        else
+        {
+            if (ViewBag.LichChieu != null)
+            {
+                <div class="content" style="margin-top:50px">
+                    <form class="form-container" >
+                        <button type="button" class="button left-button" onclick="goBack()">&larr; Back</button>
+                        <div class="form-column">
+                            <img src="~/IMG/@Session["Hinh"]" alt="Poster phim" class="img-fluid animate__animated animate__zoomIn" style="width: 130px; height: 170px;">
+                        </div>
+                        <div class="form-column">
+                            <p>Ngôn ngữ: @ViewBag.LichChieu.NgonNgu</p>
+                            <p>Giờ chiếu: @ViewBag.LichChieu.GioChieu</p>
+                            <p>Giờ kết thúc: @ViewBag.LichChieu.GioKetThuc</p>
+                        </div>
+                        <div class="form-column">
+                            <p>Phòng chiếu: @ViewBag.LichChieu.Phong</p>
+                            <p>Tên phim: @ten</p>
+                            <p>Ngày chiếu: @ViewBag.LichChieu.NgayChieu.ToShortDateString()</p>
+                        </div>
+                        <div class="form-column">
+                            <div>
+                                <p id="ss">
+                                    Tiền phim : 0 ₫
+                                </p>
+                                <p id="combo">
+                                    Tiền Combo : 0 ₫
+                                </p>
+                                <p id="count">
+                                    Số ghế bạn đã chọn : 0 
+                                </p>
+                            </div>
+                        </div>
+                        <button type="button"  class="button right-button" onclick="redirectToCombo()">&rarr; Next </button>
+                    </form>
+                </div>
+
+            }
+        }
+
+    </center>
+    <script>
+        const container = document.querySelector(".container");
+        const seats = document.querySelectorAll(".row .seat:not(.occupied)");
+        let count = document.getElementById("count");
+
+        populateUI();
+
+        function setMovieData(movieIndex) {
+            localStorage.setItem("selectedMovieIndex", movieIndex);
+        }
+        window.selectedSeats = [];
+        function updateCountAndTotal() {
+            let selectedSeatsCount = document.querySelectorAll(".row .seat.selected");
+
+            window.selectedSeats = Array.from(selectedSeatsCount).map(seat => seat.getAttribute("data-ten"));
+            let selectedSeatNames = Array.from(selectedSeatsCount).map(seat => seat.getAttribute("data-tg")).join(", ");
+            count.innerHTML = "Tên ghế : " + selectedSeatNames;
+            // Tính tổng giá tiền
+            let totalGiaTien = 0;
+            selectedSeatsCount.forEach((seat) => {
+                // Lấy giá trị GiaTien từ thuộc tính data-giatien
+                let giatien = seat.getAttribute("data-giatien");
+                // Chuyển đổi giá trị thành số và cộng vào tổng giá tiền
+                totalGiaTien += parseFloat(giatien);
+            });
+
+            // Định dạng tổng giá tiền thành VND
+            let formattedTotal = new Intl.NumberFormat("vi-VN", {
+                style: "currency",
+                currency: "VND",
+            }).format(totalGiaTien);
+            window.totalGiaTien = totalGiaTien;
+            // Hiển thị tổng giá tiền trong phần tử có id="ss"
+            document.getElementById("ss").innerHTML = "Tiền phim : " + formattedTotal;
+        }
+
+    function goBack() {
+        window.history.back();
+    }
+        function redirectToCombo() {
+            let totalPriceElement = document.getElementById("ss");
+            // Lấy nội dung của phần tử (chứa số tiền) và loại bỏ các ký tự không phải số
+            let totalPrice = parseFloat(totalPriceElement.innerText.replace(/\D/g, ''));
+            // Kiểm tra xem có giá trị totalGiaTien không
+            if (totalPrice !== 0) {
+                // Chuyển hướng đến trang Combo và truyền giá trị totalGiaTien qua tham số URL
+                var selectedSeatsJson = JSON.stringify(window.selectedSeats);
+
+                // Encode chuỗi JSON để tránh lỗi khi truyền trong URL
+                var encodedSelectedSeats = encodeURIComponent(selectedSeatsJson);
+                let lichChieuJson = JSON.stringify(@Html.Raw(Json.Encode(ViewBag.LichChieu.MaChieuPhim)));
+
+                // Mã hóa chuỗi JSON nếu cần
+                let encodedLichChieu = encodeURIComponent(lichChieuJson);
+                // Chuyển hướng đến trang Combo và truyền giá trị totalGiaTien và danh sách các ghế
+                window.location.href = "Combo?totalGiaTien=" + window.totalGiaTien + "&selectedSeats=" + encodedSelectedSeats + "&malc=" + encodedLichChieu;
+            } else {
+                // Nếu totalGiaTien không tồn tại, có thể xử lý theo nhu cầu của bạn
+                alert("Vui lòng chọn ghế trước khi chuyển đến Combo.");
+            }
+        }
+
+        function populateUI() {
+
+            const selectedSeats = JSON.parse(localStorage.getItem("seatIndex"));
+
+            if (selectedSeats !== null && selectedSeats.length > 0) {
+
+                seats.forEach((seat, index) => {
+
+                    if (selectedSeats.indexOf(index) > -1) {
+                        seat.classList.add("selected");
+                    }
+                });
+            }
+
+        }
+
+
+        container.addEventListener("click", (e) => {
+            if (
+                e.target.classList.contains("seat") &&
+                !e.target.classList.contains("occupied")
+            ) {
+
+                e.target.classList.toggle("selected");
+
+                updateCountAndTotal();
+            }
+        });
+        updateCountAndTotal();
+
+    </script>
+    <style>
+        /* CSS cho form */
+        .form-container {
+            background-color: black; /* Màu nền */
+            color: white; /* Màu chữ */
+            overflow: hidden; /* Ẩn phần bị lõm */
+            position: relative; /* Để sử dụng box-shadow */
+            padding: 20px;
+            box-sizing: border-box;
+            width: 1000px;
+            display: flex; /* Sử dụng flexbox */
+            justify-content: space-between; /* Căn giữa các cột */
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); /* Đổ bóng */
+            overflow: hidden; /* Ẩn phần bị lõm */
+        }
+        .form-column p {
+            text-align: left;
+        }
+        /* CSS cho cột trong form */
+        .form-column {
+            flex: 1; /* Cột linh hoạt */
+            padding: 0 10px;
+        }
+        .content {
+            position: relative;
+            overflow: hidden;
+            padding: 15px 0;
+            box-sizing: border-box;
+        }
+
+            .content::before {
+                content: "";
+                display: block;
+                background: linear-gradient(90deg, #FFFFFF 30%, transparent 30%, transparent 75%, #FFFFFF 75%);
+                background-size: 40px;
+                position: absolute;
+                top: -1000px;
+                left: -50px;
+                bottom: -1000px;
+                right: -50px;
+                transform: rotate(45deg);
+            }
+
+
+
+        
+        /* CSS cho button trái */
+        .left-button, .right-button {
+            background-color: red; /* Màu nền */
+            color: white; /* Màu chữ */
+            border: none;
+            padding: 10px; /* Kích thước nút */
+            border-radius: 8px; /* Góc cong */
+            cursor: pointer;
+            transition: background-color 0.3s;
+            width: 100px; /* Độ dài */
+            height: 150px; 
+        }
+
+            /* Hover state cho button */
+            .left-button:hover, .right-button:hover {
+                background-color: darkblue; /* Màu nền khi hover */
+            }
+        /* Clearfix để ngăn chặn form bị tràn ra ngoài */
+        .clearfix::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
+    </style>
+</body>

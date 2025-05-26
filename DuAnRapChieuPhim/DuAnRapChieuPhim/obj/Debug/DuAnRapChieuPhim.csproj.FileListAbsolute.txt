@@ -1,0 +1,1316 @@
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\DuAnRapChieuPhim.dll.config
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\DuAnRapChieuPhim.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\DuAnRapChieuPhim.pdb
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csc.exe
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csc.exe.config
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csc.rsp
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csi.exe
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csi.exe.config
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csi.rsp
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.AppContext.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Collections.Immutable.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Console.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Globalization.Calendars.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.Compression.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.FileSystem.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Net.Http.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Net.Sockets.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Reflection.Metadata.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.ValueTuple.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.XPath.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\vbc.exe
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\vbc.exe.config
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\vbc.rsp
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\VBCSCompiler.exe
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\VBCSCompiler.exe.config
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Antlr3.Runtime.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.SqlServer.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Google.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Web.Infrastructure.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Newtonsoft.Json.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Owin.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.Mvc.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Helpers.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Mvc.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Optimization.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Razor.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Deployment.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Razor.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\WebGrease.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.xml
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.Mvc.xml
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Helpers.xml
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Mvc.xml
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Optimization.xml
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Razor.xml
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.xml
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Deployment.xml
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Razor.xml
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Newtonsoft.Json.xml
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Antlr3.Runtime.pdb
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.xml
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.SqlServer.xml
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.xml
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.xml
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Google.xml
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.csproj.AssemblyReference.cache
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.csproj.CoreCompileInputs.cache
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.csproj.CopyComplete
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.dll
+D:\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.pdb
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.csproj.AssemblyReference.cache
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.csproj.CoreCompileInputs.cache
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.pdb
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\DuAnRapChieuPhim.dll.config
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\DuAnRapChieuPhim.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\DuAnRapChieuPhim.pdb
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csc.exe
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csc.exe.config
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csc.rsp
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csi.exe
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csi.exe.config
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csi.rsp
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.Managed.Core.targets
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.AppContext.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Collections.Immutable.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Console.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Globalization.Calendars.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.Compression.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.FileSystem.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Net.Http.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Net.Sockets.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Reflection.Metadata.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.ValueTuple.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.XmlDocument.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.XPath.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\vbc.exe
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\vbc.exe.config
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\vbc.rsp
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\VBCSCompiler.exe
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\VBCSCompiler.exe.config
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Antlr3.Runtime.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.SqlServer.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Core.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Cookies.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Facebook.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Google.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.OAuth.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Twitter.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Web.Infrastructure.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Newtonsoft.Json.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Owin.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.Mvc.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Helpers.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Mvc.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Optimization.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Razor.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Deployment.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Razor.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\WebGrease.dll
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.xml
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.Mvc.xml
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Helpers.xml
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Mvc.xml
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Optimization.xml
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Razor.xml
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.xml
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Deployment.xml
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Razor.xml
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Newtonsoft.Json.xml
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Antlr3.Runtime.pdb
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.xml
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.SqlServer.xml
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Core.xml
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.xml
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.xml
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Facebook.xml
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Cookies.xml
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Google.xml
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Twitter.xml
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.OAuth.xml
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\web\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.csproj.CopyComplete
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\DuAnRapChieuPhim.dll.config
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\DuAnRapChieuPhim.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\DuAnRapChieuPhim.pdb
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csc.exe
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csc.exe.config
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csc.rsp
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csi.exe
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csi.exe.config
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csi.rsp
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.AppContext.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Collections.Immutable.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Console.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Globalization.Calendars.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.Compression.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.FileSystem.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Net.Http.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Net.Sockets.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Reflection.Metadata.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.ValueTuple.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.XPath.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\vbc.exe
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\vbc.exe.config
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\vbc.rsp
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\VBCSCompiler.exe
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\VBCSCompiler.exe.config
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Antlr3.Runtime.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.SqlServer.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Google.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Web.Infrastructure.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Newtonsoft.Json.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Owin.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.Mvc.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Helpers.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Mvc.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Optimization.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Razor.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Deployment.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Razor.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\WebGrease.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.xml
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.Mvc.xml
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Helpers.xml
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Mvc.xml
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Optimization.xml
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Razor.xml
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.xml
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Deployment.xml
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Razor.xml
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Newtonsoft.Json.xml
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Antlr3.Runtime.pdb
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.xml
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.SqlServer.xml
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.xml
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.xml
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Google.xml
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.csproj.AssemblyReference.cache
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.csproj.CoreCompileInputs.cache
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.csproj.CopyComplete
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.dll
+D:\DuAnRapChieuPhim (4)\DuAnRapChieuPhim (3)\DuAnRapChieuPhim (2)\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.pdb
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\DuAnRapChieuPhim.dll.config
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\DuAnRapChieuPhim.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\DuAnRapChieuPhim.pdb
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csc.exe
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csc.exe.config
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csc.rsp
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csi.exe
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csi.exe.config
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csi.rsp
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.Managed.Core.targets
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.AppContext.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Collections.Immutable.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Console.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Globalization.Calendars.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.Compression.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.FileSystem.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Net.Http.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Net.Sockets.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Reflection.Metadata.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.ValueTuple.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.XmlDocument.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.XPath.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\vbc.exe
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\vbc.exe.config
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\vbc.rsp
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\VBCSCompiler.exe
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\VBCSCompiler.exe.config
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Antlr3.Runtime.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\BouncyCastle.Cryptography.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.SqlServer.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MailKit.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Core.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Cookies.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Facebook.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Google.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.OAuth.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Twitter.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Web.Infrastructure.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MimeKit.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Newtonsoft.Json.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Owin.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.Mvc.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Buffers.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Formats.Asn1.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Memory.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Numerics.Vectors.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Threading.Tasks.Extensions.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.ValueTuple.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Helpers.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Mvc.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Optimization.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Razor.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Deployment.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Razor.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\WebGrease.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\zxing.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\zxing.presentation.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\BouncyCastle.Cryptography.xml
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MailKit.pdb
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MailKit.xml
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MailKit.dll.config
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MimeKit.pdb
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MimeKit.xml
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MimeKit.dll.config
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.xml
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.Mvc.xml
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Buffers.xml
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Formats.Asn1.xml
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Memory.xml
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Numerics.Vectors.xml
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Threading.Tasks.Extensions.xml
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.ValueTuple.xml
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Helpers.xml
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Mvc.xml
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Optimization.xml
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Razor.xml
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.xml
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Deployment.xml
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Razor.xml
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Newtonsoft.Json.xml
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Antlr3.Runtime.pdb
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\zxing.xml
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\zxing.presentation.xml
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.xml
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.SqlServer.xml
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Core.xml
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.xml
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.xml
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Facebook.xml
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Cookies.xml
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Google.xml
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Twitter.xml
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.OAuth.xml
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.csproj.AssemblyReference.cache
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.csproj.CoreCompileInputs.cache
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.csproj.CopyComplete
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.dll
+D:\web\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.pdb
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\DuAnRapChieuPhim.dll.config
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\DuAnRapChieuPhim.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\DuAnRapChieuPhim.pdb
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csc.exe
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csc.exe.config
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csc.rsp
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csi.exe
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csi.exe.config
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csi.rsp
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Console.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Net.Http.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\vbc.exe
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\vbc.rsp
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\BouncyCastle.Cryptography.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MailKit.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MimeKit.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Owin.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.Mvc.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Buffers.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Formats.Asn1.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Memory.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Numerics.Vectors.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.ValueTuple.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Helpers.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Mvc.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Optimization.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Razor.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\WebGrease.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\zxing.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\zxing.presentation.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\BouncyCastle.Cryptography.xml
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MailKit.pdb
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MailKit.xml
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MailKit.dll.config
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MimeKit.pdb
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MimeKit.xml
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MimeKit.dll.config
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.xml
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.Mvc.xml
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Buffers.xml
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Formats.Asn1.xml
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Memory.xml
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Numerics.Vectors.xml
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.ValueTuple.xml
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Helpers.xml
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Mvc.xml
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Optimization.xml
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Razor.xml
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.xml
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\zxing.xml
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\zxing.presentation.xml
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.xml
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.xml
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.xml
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.csproj.CopyComplete
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.dll
+C:\Users\DELL\Downloads\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.pdb
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\DuAnRapChieuPhim.dll.config
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\DuAnRapChieuPhim.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\DuAnRapChieuPhim.pdb
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csc.exe
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csc.exe.config
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csc.rsp
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csi.exe
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csi.exe.config
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csi.rsp
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.AppContext.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Collections.Immutable.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Console.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Globalization.Calendars.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.Compression.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.FileSystem.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Net.Http.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Net.Sockets.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Reflection.Metadata.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.ValueTuple.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.XPath.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\vbc.exe
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\vbc.exe.config
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\vbc.rsp
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\VBCSCompiler.exe
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\VBCSCompiler.exe.config
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Antlr3.Runtime.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\BouncyCastle.Cryptography.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.SqlServer.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MailKit.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Google.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Web.Infrastructure.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MimeKit.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Newtonsoft.Json.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Owin.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.Mvc.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Buffers.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Formats.Asn1.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Memory.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Numerics.Vectors.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Threading.Tasks.Extensions.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.ValueTuple.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Helpers.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Mvc.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Optimization.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Razor.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Deployment.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Razor.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\WebGrease.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\zxing.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\zxing.presentation.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\BouncyCastle.Cryptography.xml
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MailKit.pdb
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MailKit.xml
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MailKit.dll.config
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MimeKit.pdb
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MimeKit.xml
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MimeKit.dll.config
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.xml
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.Mvc.xml
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Buffers.xml
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Formats.Asn1.xml
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Memory.xml
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Numerics.Vectors.xml
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Threading.Tasks.Extensions.xml
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.ValueTuple.xml
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Helpers.xml
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Mvc.xml
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Optimization.xml
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Razor.xml
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.xml
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Deployment.xml
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Razor.xml
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Newtonsoft.Json.xml
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Antlr3.Runtime.pdb
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\zxing.xml
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\zxing.presentation.xml
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.xml
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.SqlServer.xml
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.xml
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.xml
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Google.xml
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.csproj.AssemblyReference.cache
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.csproj.CoreCompileInputs.cache
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapC.053A3B67.Up2Date
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.dll
+D:\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.pdb
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\DuAnRapChieuPhim.dll.config
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\DuAnRapChieuPhim.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\DuAnRapChieuPhim.pdb
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csc.exe
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csc.exe.config
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csc.rsp
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csi.exe
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csi.exe.config
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csi.rsp
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Console.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Net.Http.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\vbc.exe
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\vbc.exe.config
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\vbc.rsp
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Antlr3.Runtime.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\BouncyCastle.Cryptography.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MailKit.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MimeKit.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Newtonsoft.Json.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Owin.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.Mvc.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Buffers.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Formats.Asn1.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Memory.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Numerics.Vectors.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.ValueTuple.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Helpers.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Mvc.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Optimization.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Razor.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\WebGrease.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\zxing.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\zxing.presentation.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\BouncyCastle.Cryptography.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MailKit.pdb
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MailKit.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MailKit.dll.config
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MimeKit.pdb
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MimeKit.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MimeKit.dll.config
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.Mvc.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Buffers.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Formats.Asn1.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Memory.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Numerics.Vectors.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.ValueTuple.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Helpers.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Mvc.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Optimization.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Razor.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Newtonsoft.Json.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\zxing.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\zxing.presentation.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.csproj.CopyComplete
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.pdb
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\DuAnRapChieuPhim.dll.config
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\DuAnRapChieuPhim.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\DuAnRapChieuPhim.pdb
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csc.exe
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csc.exe.config
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csc.rsp
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csi.exe
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csi.exe.config
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csi.rsp
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.Managed.Core.targets
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.AppContext.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Collections.Immutable.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Console.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Globalization.Calendars.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.Compression.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.FileSystem.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Net.Http.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Net.Sockets.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Reflection.Metadata.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.ValueTuple.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.XmlDocument.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.XPath.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\vbc.exe
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\vbc.exe.config
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\vbc.rsp
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\VBCSCompiler.exe
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\VBCSCompiler.exe.config
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Antlr3.Runtime.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\BouncyCastle.Cryptography.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.SqlServer.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MailKit.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Core.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Cookies.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Facebook.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Google.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.OAuth.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Twitter.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Web.Infrastructure.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MimeKit.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Newtonsoft.Json.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Owin.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.Mvc.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Buffers.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Formats.Asn1.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Memory.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Numerics.Vectors.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Threading.Tasks.Extensions.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.ValueTuple.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Helpers.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Mvc.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Optimization.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Razor.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Deployment.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Razor.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\WebGrease.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\zxing.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\zxing.presentation.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\BouncyCastle.Cryptography.xml
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MailKit.pdb
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MailKit.xml
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MailKit.dll.config
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MimeKit.pdb
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MimeKit.xml
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MimeKit.dll.config
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.xml
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.Mvc.xml
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Buffers.xml
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Formats.Asn1.xml
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Memory.xml
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Numerics.Vectors.xml
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Threading.Tasks.Extensions.xml
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.ValueTuple.xml
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Helpers.xml
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Mvc.xml
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Optimization.xml
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Razor.xml
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.xml
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Deployment.xml
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Razor.xml
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Newtonsoft.Json.xml
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Antlr3.Runtime.pdb
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\zxing.xml
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\zxing.presentation.xml
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.xml
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.SqlServer.xml
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Core.xml
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.xml
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.xml
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Facebook.xml
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Cookies.xml
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Google.xml
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Twitter.xml
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.OAuth.xml
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.csproj.AssemblyReference.cache
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.csproj.CoreCompileInputs.cache
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapC.053A3B67.Up2Date
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.dll
+E:\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.pdb
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\DuAnRapChieuPhim.dll.config
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\DuAnRapChieuPhim.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\DuAnRapChieuPhim.pdb
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csc.exe
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csc.exe.config
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csc.rsp
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csi.exe
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csi.exe.config
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csi.rsp
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Console.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Net.Http.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\vbc.exe
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\vbc.exe.config
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\vbc.rsp
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Antlr3.Runtime.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\BouncyCastle.Cryptography.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MailKit.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MimeKit.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Newtonsoft.Json.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Owin.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.Mvc.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Buffers.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Formats.Asn1.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Memory.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Numerics.Vectors.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.ValueTuple.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Helpers.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Mvc.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Optimization.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Razor.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\WebGrease.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\zxing.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\zxing.presentation.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\BouncyCastle.Cryptography.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MailKit.pdb
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MailKit.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MailKit.dll.config
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MimeKit.pdb
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MimeKit.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MimeKit.dll.config
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.Mvc.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Buffers.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Formats.Asn1.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Memory.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Numerics.Vectors.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.ValueTuple.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Helpers.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Mvc.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Optimization.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Razor.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Newtonsoft.Json.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\zxing.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\zxing.presentation.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.csproj.CopyComplete
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.dll
+C:\Users\DELL\OneDrive - HUCE\Documents\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.pdb
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\DuAnRapChieuPhim.dll.config
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\DuAnRapChieuPhim.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\DuAnRapChieuPhim.pdb
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csc.exe
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csc.exe.config
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csc.rsp
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csi.exe
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csi.exe.config
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\csi.rsp
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.AppContext.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Collections.Immutable.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Console.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Globalization.Calendars.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.Compression.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.FileSystem.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Net.Http.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Net.Sockets.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Reflection.Metadata.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.ValueTuple.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.XPath.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\vbc.exe
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\vbc.exe.config
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\vbc.rsp
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\VBCSCompiler.exe
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\roslyn\VBCSCompiler.exe.config
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Antlr3.Runtime.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\BouncyCastle.Cryptography.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.SqlServer.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MailKit.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Google.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Web.Infrastructure.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MimeKit.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Newtonsoft.Json.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Owin.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.Mvc.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Buffers.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Formats.Asn1.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Memory.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Numerics.Vectors.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Threading.Tasks.Extensions.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.ValueTuple.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Helpers.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Mvc.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Optimization.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Razor.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Deployment.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Razor.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\WebGrease.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\zxing.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\zxing.presentation.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\BouncyCastle.Cryptography.xml
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MailKit.pdb
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MailKit.xml
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MailKit.dll.config
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MimeKit.pdb
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MimeKit.xml
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\MimeKit.dll.config
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Newtonsoft.Json.xml
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.xml
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\PagedList.Mvc.xml
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Buffers.xml
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Formats.Asn1.xml
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Memory.xml
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Numerics.Vectors.xml
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Threading.Tasks.Extensions.xml
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.ValueTuple.xml
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Helpers.xml
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Mvc.xml
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Optimization.xml
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.Razor.xml
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.xml
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Deployment.xml
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\System.Web.WebPages.Razor.xml
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Antlr3.Runtime.pdb
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\zxing.xml
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\zxing.presentation.xml
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.xml
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\EntityFramework.SqlServer.xml
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.xml
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.xml
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Google.xml
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.csproj.AssemblyReference.cache
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.csproj.CoreCompileInputs.cache
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapC.053A3B67.Up2Date
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.dll
+D:\Work\DuAnRapChieuPhim\DuAnRapChieuPhim\DuAnRapChieuPhim\obj\Debug\DuAnRapChieuPhim.pdb

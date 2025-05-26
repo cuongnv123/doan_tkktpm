@@ -1,0 +1,127 @@
+﻿@{
+    ViewBag.Title = "DoiVoucher";
+    Layout = "~/Views/Shared/Layout.cshtml";
+    <style>
+        .card-header {
+            background-color: #000; /* Màu đen cho background */
+            color: #fff; /* Màu trắng cho chữ trên header */
+            font-weight: bold; /* In đậm chữ */
+        }
+
+        .card {
+            background-color: #000; /* Màu đen cho card */
+            color: #fff; /* Màu trắng cho nội dung card */
+        }
+
+        .btn1-edit {
+            background-color: #007bff; /* Màu xanh dương cho nút chỉnh sửa */
+            color: #fff; /* Màu trắng cho chữ trên nút */
+        }
+
+        .btn-edit:hover {
+            background-color: #0056b3; /* Màu xanh dương sáng khi di chuột qua */
+        }
+        .custom-link-button {
+            color: #fff; /* Màu chữ trắng */
+            background-color: #007bff; /* Màu nền xanh dương */
+            border: 1px solid #007bff; /* Viền màu xanh dương */
+            padding: 6px 12px; /* Kích thước padding */
+            text-decoration: none; /* Loại bỏ gạch chân khi hover */
+        }
+
+            .custom-link-button:hover {
+                background-color: #0056b3; /* Màu nền xanh dương sáng khi di chuột qua */
+                border: 1px solid #0056b3; /* Viền màu xanh dương sáng khi di chuột qua */
+            }
+
+    </style>
+}
+@model IEnumerable<DuAnRapChieuPhim.Models.Voucher>
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-header bg-dark text-white">
+                    <h2 class="mb-0 text-center font-weight-bold">Đổi voucher</h2>
+                </div>
+                <div class="card-body">
+
+                    <!-- Danh sách Voucher Khách hàng đang có -->
+                    <div class="mb-4">
+                        <h3 class="mb-3">Danh sách Voucher của bạn:</h3>
+                        <div class="table-responsive">
+                            <table class="table table-bordered">
+                                <thead>
+                                    <tr>
+                                        <th scope="col" class="text-white">Mã Voucher</th>
+                                        <th scope="col" class="text-white">Ngày Hết Hạn</th>
+                                        <th scope="col" class="text-white">Giảm Giá Phần Trăm</th>
+                                        <th scope="col" class="text-white">Loại Giảm Giá</th>
+                                        <th scope="col" class="text-white">Trạng Thái</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var voucher in Model)
+                                    {
+                                        <tr>
+                                            <td class="text-white">@voucher.MaVC</td>
+                                            <td class="text-white">@voucher.NgayHetHan</td>
+                                            <td class="text-white">@voucher.GiamGiaPhanTram</td>
+                                            <td class="text-white">@voucher.LoaiGiamGia</td>
+                                            <td class="text-white">@voucher.TrangThai</td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    <h3 class="mb-3">Điểm của bạn: @ViewBag.Diem</h3>
+                    <!-- Danh sách Loại Voucher có thể đổi -->
+                    <div class="mb-4">
+                        <h3 class="mb-3">Danh sách Loại Voucher có thể đổi:</h3>
+                        <div class="table-responsive">
+                            <table class="table table-bordered">
+                                <thead>
+                                    <tr>
+                                        <th scope="col" class="text-white">ID</th>
+                                        <th scope="col" class="text-white">Loại Giảm Giá</th>
+                                        <th scope="col" class="text-white">Giảm Giá</th>
+                                        <th scope="col" class="text-white">Điểm</th>
+                                        <th scope="col" class="text-white">Thao Tác</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var loaiVoucher in ViewBag.LoaiVoucher)
+                                    {
+                                        <tr>
+                                            <td class="text-white">@loaiVoucher.id</td>
+                                            <td class="text-white">@loaiVoucher.LoaiGiamGia</td>
+                                            <td class="text-white">@loaiVoucher.GiamGia</td>
+                                            <td class="text-white">@loaiVoucher.Diem</td>
+                                            <td class="text-white">
+                                                <a href="javascript:void(0);" onclick="confirmChangeVoucher('@loaiVoucher.id', @loaiVoucher.Diem)" class="custom-link-button">Đổi Voucher</a>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+     function confirmChangeVoucher(maVoucher, requiredDiem) {
+        var currentDiem = @ViewBag.Diem; // Lấy giá trị điểm hiện tại từ ViewBag
+
+        if (currentDiem < requiredDiem) {
+            alert("Bạn không có đủ điểm để đổi voucher này.");
+        } else {
+            if (confirm("Bạn có chắc chắn muốn đổi voucher không?")) {
+                window.location.href = "@Url.Action("TrangDoiVoucher", "Home")?maVoucher=" + maVoucher;
+            }
+        }
+    }
+</script>

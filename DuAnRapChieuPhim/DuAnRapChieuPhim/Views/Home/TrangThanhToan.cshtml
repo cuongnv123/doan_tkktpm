@@ -1,0 +1,579 @@
+﻿
+@{
+    ViewBag.Title = "TrangThanhToan";
+    Layout = "~/Views/Shared/Layout.cshtml";
+    var nguoidung = Session["KH"] as DuAnRapChieuPhim.Models.ThongTinCaNhan;
+    int diem = ViewBag.khach;
+    string hang = nguoidung.Hang;
+    var tongtien = ViewBag.TienGhe + ViewBag.TongCb;
+    if (hang == "VIP")
+    {
+        tongtien = tongtien - tongtien * 0.07;
+    }
+    else if (hang == "VVIP")
+    {
+        tongtien = tongtien - tongtien * 0.1;
+    }
+    var tienghe = ViewBag.TienGhe;
+}
+<div class="content">
+    
+    <table style="height:5px; margin-top:80px">
+        <tr style="background-color:white;" ></tr>
+    </table>
+    <h2 style="margin-top:30px;background-color:black;color:white;text-align:center;font-weight:bold;font-style:oblique">THANH TOÁN</h2>
+    <div class="form-container">
+        <div class="form-left">
+            <div class="voucher-section grey-background">
+                <h2 class="section-title">GIẢM GIÁ</h2>
+                <!-- Button để hiển thị trường nhập mã voucher -->
+                <div style="margin-bottom:10px;background-color:antiquewhite">
+                    <button class="custom-btn" onclick="toggleVoucherFields()">Nhập mã voucher</button>
+                </div>
+
+                <!-- Phần nhập mã voucher được ẩn ban đầu -->
+                <div id="voucherFields" style="display: none;">
+                    <input type="text" style="width:100%" id="voucherCode" class="input-black">
+                    <button class="btn btn-custom custom-button" onclick="applyVoucher()">Áp dụng</button>
+                </div>
+                <div style="margin-bottom:10px;background-color:antiquewhite">
+                    <button class="custom-btn" onclick="togglediemFields()">Sử dụng điểm</button>
+                </div>
+                <div id="diemFields" style="display: none;">
+                    <label for="diemThuong" class="label-black">Điểm thưởng hiện có: <span id="currentDiemThuong" class="badge badge-warning">@diem</span></label>
+                    <div class="qty">
+                        <input type="number" name="diemThuong" id="diemThuong" min="0" step="1" value="0" class="input-black">
+                        <button class="btn btn-custom custom-button" onclick="applyDiscount()">Sử dụng điểm</button>
+
+                    </div>
+                </div>
+
+
+            </div>
+            <div id="countdown-container">
+                <div id="countdown">
+                    <div id="countdown-label">Thời gian còn lại</div>
+                    <div id="timer">01:00</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="form-right">
+            <div class="total-section grey-background">
+                <table class="table" style="margin-top:20px">
+                    <tbody>
+                        <tr >
+                            <td style=" background-color:gray; font-weight:bold; text-align:center;" colspan="2">Thông tin ghế</td>
+                        </tr>
+                        <tr>
+                            <td style="background-color:antiquewhite">Số ghế đã chọn:</td>
+                            <td style="background-color:antiquewhite"><span id="selectedSeatCount" class="badge badge-secondary">@ViewBag.SeatNames.Count</span></td>
+                        </tr>
+
+                        <tr>
+                            <td style="background-color:antiquewhite">Tên các ghế đã chọn:</td>
+                            <td style="background-color:antiquewhite">
+                                <div class="seat-names">
+                                    @foreach (var seatName in ViewBag.SeatNames)
+                                    {
+                                        <span class="seat-name">@seatName</span>
+                                    }
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="margin-top:10px; background-color :gray; font-weight:bold; text-align:center;" colspan="2">Thông tin tiền</td>
+                        </tr>
+                        <tr>
+                            <td style="background-color:antiquewhite">Tổng tiền vé:</td>
+                            <td style="background-color:antiquewhite"><span id="totalTicketPrice" class="badge badge-success">@String.Format("{0:#,##0}", ViewBag.TienGhe) VND</span></td>
+                        </tr>
+                        <tr>
+                            <td style="background-color:antiquewhite">Tiền combo:</td>
+                            <td style="background-color:antiquewhite"><span id="comboPrice" class="badge badge-primary">@String.Format("{0:#,##0}", ViewBag.TongCB) VND</span></td>
+                        </tr>
+                        <tr>
+                            <td style="margin-top:10px; background-color :gray; font-weight:bold; text-align:center;" colspan="2">Tiền giảm giá</td>
+                        </tr>
+                        <tr>
+                            <td style="background-color:antiquewhite">Giảm giá khi dùng voucher:</td>
+                            <td style="background-color:antiquewhite"><span id="discountByVoucher" style="color:black"></span></td>
+                        </tr>
+                        <tr>
+                            <td style="margin-top:10px; background-color :gray; font-weight:bold; text-align:center;" colspan="2">Thông tin hạng thành viên</td>
+                        </tr>
+                        <tr>
+                            <td style="background-color:antiquewhite">Hạng thành viên:</td>
+                            <td style="background-color:antiquewhite"><span id="hang" class="badge badge-warning">@hang</span></td>
+                        </tr>
+                        <tr>
+                            <td style="background-color:antiquewhite">Giảm giá theo hạng:</td>
+                            <td style="background-color:antiquewhite">
+                                <span id="currentDiemThuong" class="badge badge-warning">
+                                    @if (hang == "VIP")
+                                    {
+                                        <span>GIẢM GIÁ 7%</span>
+                                    }
+                                    else if (hang == "VVIP")
+                                    {
+                                        <span>GIẢM GIÁ 10%</span>
+                                    }
+                                    else
+                                    {
+                                        <span>Không có giảm giá</span>
+                                    }
+                                </span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="background-color:antiquewhite">Tổng tiền:</td>
+                            <td style="background-color:antiquewhite"><span id="totalPrice" class="badge badge-danger">@String.Format("{0:#,##0}", tongtien) VND</span></td>
+                        </tr>
+                        <tr>
+                            <td><button class="btn btn-custom custom-button" onclick="sendDataToServer()">Thanh toán</button></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<style>
+    .content{
+        background-color:white;
+    }
+    /* CSS cho phần container chứa form */
+    .form-container {
+        display: flex;
+        justify-content: space-between;
+
+    }
+
+    .section-title,
+    .custom-btn {
+        background-color: antiquewhite;
+        color: black;
+        width: 100%;
+        text-align: left;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    /* CSS cho cột trái và phải */
+    .form-left,
+    .form-right {
+        flex: 1;
+    }
+
+    /* CSS cho phần voucher-section và total-section */
+
+    .total-section {
+        padding: 10px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    .voucher-section {
+        padding: 10px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    /* CSS cho tiêu đề của mỗi section */
+    .section-title {
+        background-color: gray;
+        font-style: oblique;
+        font-weight: bold;
+        color: black;
+        margin-bottom: 10px;
+        border-radius: 10px;
+    }
+
+    /* Chữ màu đen */
+    .label-black,
+    .input-black,
+    .btn-custom {
+        color: #000;
+    }
+
+    /* CSS cho label và input */
+    .label-black,
+    .input-black {
+        padding: 8px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        margin-bottom: 10px;
+        background-color: #fff;
+    }
+
+    .input-black {
+        width: calc(100% - 120px);
+    }
+
+    /* CSS cho button */
+    .btn-custom {
+        width: 100px;
+        padding: 5px;
+        border: none;
+        cursor: pointer;
+        border-radius: 5px;
+        background-color: red;
+        color: #fff;
+        margin-bottom: 5px;
+    }
+
+        .btn-custom:hover {
+            background-color: #0056b3;
+        }
+
+    /* CSS cho nút reset */
+    .reset-button {
+        margin-left: 10px;
+    }
+
+    /* CSS cho bảng */
+    .table {
+        width: 100%;
+    }
+
+        /* CSS cho các ô của bảng */
+        .table td {
+            border: none;
+            padding: 10px 0;
+        }
+
+        /* CSS cho badge */
+        .table .badge {
+            background-color: #333;
+            color: #fff;
+        }
+#countdown-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#countdown {
+    display: inline-block;
+}
+
+#countdown-label {
+    font-size: 20px;
+    color: #fff;
+    background-color: #ff0000;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+#timer {
+    font-size: 40px;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #007bff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    animation: pulse 1s infinite alternate;
+}
+
+    keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+    100% {
+        transform: scale(1.05);
+    }
+}
+
+
+</style>
+
+<script>
+    var countdownTime = 1 * 60; // Thời gian ban đầu là 5 phút
+    var countdownElement = document.getElementById('timer');
+
+    function startCountdown() {
+        var timer = setInterval(function () {
+            countdownTime--;
+            var minutes = Math.floor(countdownTime / 60);
+            var seconds = countdownTime % 60;
+
+            // Định dạng chuỗi hiển thị thời gian đếm ngược
+            var formattedTime = "0" +minutes + ":" + (seconds < 10 ? "0" : "") + seconds; // Thêm số 0 phía trước nếu giây < 10
+
+            // Hiển thị thời gian đếm ngược
+            countdownElement.innerHTML = formattedTime;
+
+            // Kiểm tra nếu hết thời gian
+            if (countdownTime <= 0) {
+                clearInterval(timer);
+                // Chuyển về trang HTML ở đây
+                window.location.href = "/Home/Index";
+
+            }
+        }, 1000); // Mỗi 1 giây
+    }
+
+    // Bắt đầu bộ đếm thời gian khi tải trang
+    startCountdown();
+
+    var selectedCombos = [];
+function sendDataToServer() {
+    var diemThuongValue = parseInt(document.getElementById("diemThuong").value);
+    var vc = document.getElementById("voucherCode").value;
+// Serialize dữ liệu thành một chuỗi JSON
+var serializedData = JSON.stringify(selectedCombos);
+
+// Tạo URL với dữ liệu trên query string
+    var url = '@Url.Action("ThanhToanQuaThe", "Home")' + '?selectedCombos=' + encodeURIComponent(serializedData) + '&diemThuong=' + encodeURIComponent(diemThuongValue) + '&vc=' + encodeURIComponent(vc);
+
+// Chuyển hướng đến URL được tạo
+window.location.href = url;
+}
+function applyVoucher() {
+    var voucherCode = document.getElementById("voucherCode").value;
+    var tien = @tienghe;
+    var comboPrice = parseInt(document.getElementById("comboPrice").innerText.replace(/[^\d]/g, ''));
+    // Gửi mã voucher đến action trong controller để kiểm tra
+    // Cần sử dụng AJAX hoặc Fetch API để gửi yêu cầu đến server
+    // và nhận lại kết quả từ server.
+
+    // Ví dụ sử dụng Fetch API:
+    fetch('/Home/CheckVoucher?voucherCode=' + voucherCode)
+        .then(response => response.json())
+        .then(data => {
+            // Xử lý kết quả từ server
+            if (data.isValid) {
+                var discountValue = data.discount;
+                var loai = data.loai;
+                // Cập nhật giao diện người dùng
+                if (loai === "Phim") {
+                    tien -= parseFloat(tien) * discountValue / 100;
+                    document.getElementById("totalTicketPrice").value = tien;
+                    document.getElementById("totalTicketPrice").innerText = tien.toLocaleString('vi-VN') + " VND";
+                }
+
+                if (loai === "Combo") {
+                    if (comboPrice === 0 ) {
+                        alert("Vui lòng chọn combo");
+                        document.getElementById("voucherCode").innerText = "";
+                        return;
+                    }
+
+                    comboPrice -= parseFloat(comboPrice) * discountValue / 100;
+                    document.getElementById("comboPrice").value = comboPrice;
+                    document.getElementById("comboPrice").innerText = comboPrice.toLocaleString('vi-VN') + " VND";
+                }
+                var tienghe = parseInt(document.getElementById("totalTicketPrice").innerText.replace(/[^\d]/g, ''));
+                document.getElementById("discountByVoucher").innerText = "Giảm giá khi dùng voucher : Giảm " + discountValue + "%";
+
+                var tongall = tienghe + comboPrice;
+                if ("@hang" == "VIP") {
+                    tongall = tongall - tongall * 0.07;
+                }
+                else if ("@hang" == "VVIP") {
+                    tongall = tongall - tongall * 0.1;
+                }
+                originalTotalPrice = tongall;
+                document.getElementById("totalPrice").innerText = tongall.toLocaleString('vi-VN') + " VND";
+            } else {
+                alert("Mã voucher không hợp lệ hoặc đã hết hạn hoặc đã được sử dụng.");
+            }
+        })
+        .catch(error => console.error('Error:', error));
+}
+
+var originalTotalPrice = parseInt(document.getElementById("totalPrice").innerText.replace(/[^\d]/g, ''));
+
+function updateTotalPrice() {
+    // Lấy giá trị nhập vào từ ô input diemThuong
+    var diemThuongValue = parseInt(document.getElementById("diemThuong").value);
+
+    // Lấy giá trị giảm giá dựa trên hạng thành viên
+
+
+    // Tính toán giảm giá dựa trên điểm thưởng và hạng thành viên
+    var discount = diemThuongValue * 1000 ;
+
+    // Cập nhật lại giá trị của totalPrice
+    var newTotalPrice = originalTotalPrice  - discount;
+    var formattedPrice = newTotalPrice.toLocaleString('vi-VN');
+    // Hiển thị giá trị mới của totalPrice
+    document.getElementById("totalPrice").innerText = formattedPrice + " VND";
+}
+
+function applyDiscount() {
+    var totalPrice = parseInt(document.getElementById("totalPrice").innerText.replace(/[^\d]/g, ''));
+     var diemHienCo = parseInt("@diem");
+
+    var diemThuongValue = parseInt(document.getElementById("diemThuong").value);
+    if (diemThuongValue < 20) {
+        alert("Tối thiểu sử dụng 20 điểm!");
+        document.getElementById("diemThuong").value = 0;
+        updateTotalPrice();
+        return;
+    }
+    if (diemThuongValue > diemHienCo ) {
+        alert("Bạn không có đủ điểm để sử dụng!");
+        document.getElementById("diemThuong").value = 0;
+        updateTotalPrice();
+        return;
+    }
+    if (diemThuongValue * 1000 > totalPrice * 0.9) {
+        alert("Không thể áp dụng điểm bời vì nó quá 90% giá trị đơn hàng!");
+        document.getElementById("diemThuong").value = 0;
+        updateTotalPrice();
+        return;
+
+    }
+    else {
+        updateTotalPrice();
+    }
+}
+
+function increaseQuantity(comboId, event) {
+    event.preventDefault();
+
+    var qtyInput = document.getElementById('qty-' + comboId);
+    var currentQty = parseInt(qtyInput.value, 10);
+
+
+    var selectedComboIndex = selectedCombos.findIndex(c => c.MaCB === comboId);
+
+    if (currentQty >= 0) {
+        // Nếu có trong danh sách, cập nhật số lượng
+        if (selectedComboIndex !== -1) {
+            selectedCombos[selectedComboIndex].SoLuong = currentQty+1;
+        } else {
+            // Nếu chưa có, thêm mới vào danh sách
+            selectedCombos.push({ MaCB: comboId, SoLuong: currentQty + 1 });
+        }
+    } else {
+        // Nếu số lượng là 0, loại bỏ combo khỏi danh sách
+        if (selectedComboIndex !== -1) {
+            selectedCombos.splice(selectedComboIndex, 1);
+        }
+    }
+    for (var combo of selectedCombos) {
+        console.log("Mã: " + combo.MaCB + ", Số lượng: " + combo.SoLuong);
+    }
+
+    if (currentQty < 10) {
+        qtyInput.value = currentQty + 1;
+        updateComboPrice(comboId, currentQty + 1);
+    }
+}
+
+function decreaseQuantity(comboId, event) {
+    event.preventDefault();
+
+    var qtyInput = document.getElementById('qty-' + comboId);
+    var currentQty = parseInt(qtyInput.value, 10);
+    var selectedComboIndex = selectedCombos.findIndex(c => c.MaCB === comboId);
+
+    if (currentQty > 1) {
+        // Nếu có trong danh sách, cập nhật số lượng
+        if (selectedComboIndex !== -1) {
+            selectedCombos[selectedComboIndex].SoLuong = currentQty-1;
+        } else {
+            // Nếu chưa có, thêm mới vào danh sách
+            selectedCombos.push({ MaCB: comboId, SoLuong: currentQty-1 });
+        }
+    } else {
+        // Nếu số lượng là 0, loại bỏ combo khỏi danh sách
+        if (selectedComboIndex !== -1) {
+            selectedCombos.splice(selectedComboIndex, 1);
+        }
+    }
+    for (var combo of selectedCombos) {
+        console.log("Mã: " + combo.MaCB + ", Số lượng: " + combo.SoLuong);
+    }
+    if (currentQty > 0) {
+        qtyInput.value = currentQty - 1;
+        updateComboPricedown(comboId, currentQty - 1);
+    }
+}
+window.totalComboPrice = 0;
+function updateComboPrice(comboId) {
+    // Lấy giá combo từ data-giatien
+    var comboPrice = parseFloat(document.getElementById('qty-' + comboId).getAttribute('data-giatien'));
+    var TIEN = parseInt(document.getElementById("totalTicketPrice").innerText.replace(/[^\d]/g, ''));
+    // Tính tổng giá tiền combo
+
+    window.totalComboPrice = totalComboPrice + comboPrice;
+    var tong = window.totalComboPrice + TIEN;
+
+            if ("@hang" == "VIP") {
+        tong = tong - tong * 0.07;
+    }
+    else if ("@hang" == "VVIP") {
+        tong = tong - tong * 0.1;
+    }
+    originalTotalPrice = tong;
+    var diemThuongValue = parseInt(document.getElementById("diemThuong").value);
+    if (diemThuongValue > 0) {
+        var discount = diemThuongValue * 1000;
+
+        // Cập nhật lại giá trị của totalPrice
+        var tong = tong - discount;
+    }
+
+    // Hiển thị tổng giá tiền combo
+    var formattedTotalComboPrice = new Intl.NumberFormat("vi-VN").format(window.totalComboPrice);
+    var formattedTotalPrice = new Intl.NumberFormat("vi-VN").format(tong);
+    document.getElementById("comboPrice").innerHTML = formattedTotalComboPrice + " VND";
+    document.getElementById("totalPrice").innerHTML = formattedTotalPrice + " VND";
+}
+function updateComboPricedown(comboId) {
+    // Lấy giá combo từ data-giatien
+    var comboPrice = parseFloat(document.getElementById('qty-' + comboId).getAttribute('data-giatien'));
+    var TIEN = parseInt(document.getElementById("totalTicketPrice").innerText.replace(/[^\d]/g, ''));
+    // Tính tổng giá tiền combo
+
+    window.totalComboPrice = totalComboPrice - comboPrice;
+
+    var tong = window.totalComboPrice + TIEN;
+
+    if ("@hang" == "VIP") {
+        tong = tong - tong * 0.07;
+    }
+    else if ("@hang" == "VVIP") {
+        tong = tong - tong * 0.1;
+    }
+    originalTotalPrice = tong;
+    var diemThuongValue = parseInt(document.getElementById("diemThuong").value);
+    if (diemThuongValue > 0) {
+        var discount = diemThuongValue * 1000;
+
+        // Cập nhật lại giá trị của totalPrice
+        var tong = tong - discount;
+    }
+    // Hiển thị tổng giá tiền combo
+    var formattedTotalComboPrice = new Intl.NumberFormat("vi-VN").format(window.totalComboPrice);
+    var formattedTotalPrice = new Intl.NumberFormat("vi-VN").format(tong);
+    document.getElementById("comboPrice").innerHTML = formattedTotalComboPrice + " VND";
+
+    document.getElementById("totalPrice").innerHTML = formattedTotalPrice + " VND";
+    }
+    function toggleVoucherFields() {
+        var voucherFields = document.getElementById("voucherFields");
+        // Toggle hiển thị ẩn phần nhập mã voucher
+        if (voucherFields.style.display === "none") {
+            voucherFields.style.display = "block";
+        } else {
+            voucherFields.style.display = "none";
+        }
+    }
+    function togglediemFields() {
+        var voucherFields = document.getElementById("diemFields");
+        // Toggle hiển thị ẩn phần nhập mã voucher
+        if (voucherFields.style.display === "none") {
+            voucherFields.style.display = "block";
+        } else {
+            voucherFields.style.display = "none";
+        }
+    }
+</script>
+

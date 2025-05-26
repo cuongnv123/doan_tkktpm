@@ -1,0 +1,267 @@
+﻿
+@{
+    ViewBag.Title = "VoucherToi";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+@model IPagedList<DuAnRapChieuPhim.Models.Voucher>
+@using PagedList
+@using PagedList.Mvc
+<section class="container" style="margin-top: 100px; width: 1000px; background-color: black ">
+    <h1 style="text-align:center;font-weight:bold;">VOUCHER CỦA BẠN</h1>
+    @{
+        for (int i = 0; i < Model.Count; i += 2)
+        {
+            int maxIndex = Model.Count - 1;
+            var voucher1 = Model.ElementAtOrDefault(i);
+            var voucher2 = (i + 1 <= maxIndex) ? Model.ElementAtOrDefault(i + 1) : null;
+            <div class="row">
+                @if (voucher1 != null)
+                {
+                    <article class="card fl-left">
+                        <section class="date">
+                            <img src="~/IMG/@voucher1.img" style="width:100px;height:100px; margin-top:80px" />
+                        </section>
+                        <section class="card-cont">
+                            <small>Voucher</small>
+                            <h3>@voucher1.LoaiGiamGia</h3>
+                            <div class="even-date">
+                                <time>
+                                    <span>HSD: @voucher1.NgayHetHan.Value.ToShortDateString()</span>
+
+                                    <span>Giảm giá @voucher1.GiamGiaPhanTram %</span>
+                                </time>
+                            </div>
+                            <div class="even-info">
+                                <p>
+                                    Trạng thái :  @voucher1.TrangThai
+                                </p>
+                            </div>
+
+                            <a href="#" onclick="showVoucher('@voucher1.MaVC')">Lấy mã</a>
+
+                        </section>
+                    </article>
+                }
+                @if (voucher2 != null)
+                {
+                    <article class="card fl-left">
+                        <section class="date">
+                            <img src="~/IMG/@voucher2.img" style="width:100px;height:100px; margin-top:80px" />
+                        </section>
+                        <section class="card-cont">
+                            <small>Voucher</small>
+                            <h3>@voucher2.LoaiGiamGia</h3>
+                            <div class="even-date">
+                                <time>
+                                    <span>HSD: @voucher1.NgayHetHan.Value.ToShortDateString()</span>
+
+                                    <span>Giảm giá @voucher2.GiamGiaPhanTram %</span>
+                                </time>
+                            </div>
+                            <div class="even-info">
+                                <p>
+                                    Trạng thái : @voucher2.TrangThai
+                                </p>
+                            </div>
+                            <a href="#" onclick="showVoucher('@voucher2.MaVC')">Lấy mã</a>
+
+
+
+
+                        </section>
+                    </article>
+                }
+
+            </div>
+        }
+    }
+
+    <div class="pagination-container" style="text-align: center;">
+        @Html.PagedListPager(Model, page => Url.Action("VoucherToi", new { page }))
+    </div>
+
+
+
+</section>
+<script>
+    function showVoucher(voucherCode) {
+        alert('Mã voucher của bạn là: ' + voucherCode);
+    }
+</script>
+<style>
+    import url('https://fonts.googleapis.com/css?family=Oswald');
+    * {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        box-sizing: border-box
+    }
+
+    body {
+        font-family: arial
+    }
+
+    .fl-left {
+        float: left
+    }
+
+    .fl-right {
+        float: right
+    }
+
+
+
+    .row {
+        overflow: hidden
+    }
+
+    .card {
+        display: table-row;
+        width: 49%;
+        background-color: #fff;
+        color: #989898;
+        margin-bottom: 10px;
+        font-family: 'Oswald', sans-serif;
+        text-transform: uppercase;
+        border-radius: 4px;
+        position: relative
+    }
+
+        .card + .card {
+            margin-left: 2%
+        }
+
+    .date {
+        display: table-cell;
+        width: 25%;
+        position: relative;
+        text-align: center;
+        border-right: 2px dashed black
+    }
+
+        .date:before,
+        .date:after {
+            content: "";
+            display: block;
+            width: 30px;
+            height: 30px;
+            background-color: black;
+            position: absolute;
+            top: -15px;
+            right: -15px;
+            z-index: 1;
+            border-radius: 50%
+        }
+
+        .date:after {
+            top: auto;
+            bottom: -15px
+        }
+
+        .date time {
+            display: block;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            -webkit-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%)
+        }
+
+            .date time span {
+                display: block
+            }
+
+                .date time span:first-child {
+                    color: #2b2b2b;
+                    font-weight: 600;
+                    font-size: 250%
+                }
+
+                .date time span:last-child {
+                    text-transform: uppercase;
+                    font-weight: 600;
+                    margin-top: -10px
+                }
+
+    .card-cont {
+        display: table-cell;
+        width: 75%;
+        font-size: 85%;
+        padding: 10px 10px 30px 50px
+    }
+
+        .card-cont h3 {
+            color: #3C3C3C;
+            font-size: 130%
+        }
+
+
+
+        .card-cont > div {
+            display: table-row
+        }
+
+        .card-cont .even-date i,
+        .card-cont .even-info i,
+        .card-cont .even-date time,
+        .card-cont .even-info p {
+            display: table-cell
+        }
+
+        .card-cont .even-date i,
+        .card-cont .even-info i {
+            padding: 5% 5% 0 0
+        }
+
+        .card-cont .even-info p {
+            padding: 30px 50px 0 0
+        }
+
+        .card-cont .even-date time span {
+            display: block
+        }
+
+        .card-cont a {
+            display: block;
+            text-decoration: none;
+            width: 100px;
+            height: 30px;
+            background-color: black;
+            color: #fff;
+            text-align: center;
+            line-height: 30px;
+            border-radius: 2px;
+            position: absolute;
+            right: 10px;
+            bottom: 10px
+        }
+
+    .row:last-child .card:first-child .card-cont a {
+        background-color: black
+    }
+
+    .row:last-child .card:last-child .card-cont a {
+        background-color: black;
+    }
+
+    media screen and (max-width: 860px) {
+        .card
+
+    {
+        display: block;
+        float: none;
+        width: 100%;
+        margin-bottom: 10px
+    }
+
+    .card + .card {
+        margin-left: 0
+    }
+
+    .card-cont .even-date,
+    .card-cont .even-info {
+        font-size: 75%
+    }
+    }
+</style>
