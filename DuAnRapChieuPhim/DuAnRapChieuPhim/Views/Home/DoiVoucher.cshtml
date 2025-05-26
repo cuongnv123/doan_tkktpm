@@ -1,0 +1,262 @@
+﻿@{
+    ViewBag.Title = "DoiVoucher";
+    Layout = "~/Views/Shared/Layout.cshtml";
+    <style>
+    import url('https://fonts.googleapis.com/css?family=Oswald');
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box
+}
+
+body {
+    font-family: arial
+}
+
+.fl-left {
+    float: left
+}
+
+.fl-right {
+    float: right
+}
+
+
+
+.row {
+    overflow: hidden
+}
+
+.card {
+    display: table-row;
+    width: 49%;
+    background-color: #fff;
+    color: #989898;
+    margin-bottom: 10px;
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    border-radius: 4px;
+    position: relative
+}
+
+.card+.card {
+    margin-left: 2%
+}
+
+.date {
+    display: table-cell;
+    width: 25%;
+    position: relative;
+    text-align: center;
+    border-right: 2px dashed black
+}
+
+        .date:before,
+        .date:after {
+            content: "";
+            display: block;
+            width: 30px;
+            height: 30px;
+            background-color: black;
+            position: absolute;
+            top: -15px;
+            right: -15px;
+            z-index: 1;
+            border-radius: 50%
+        }
+
+.date:after {
+    top: auto;
+    bottom: -15px
+}
+
+.date time {
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%)
+}
+
+.date time span {
+    display: block
+}
+
+.date time span:first-child {
+    color: #2b2b2b;
+    font-weight: 600;
+    font-size: 250%
+}
+
+.date time span:last-child {
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-top: -10px
+}
+
+.card-cont {
+    display: table-cell;
+    width: 75%;
+    font-size: 85%;
+    padding: 10px 10px 30px 50px
+}
+
+.card-cont h3 {
+    color: #3C3C3C;
+    font-size: 130%
+}
+
+
+
+.card-cont>div {
+    display: table-row
+}
+
+.card-cont .even-date i,
+.card-cont .even-info i,
+.card-cont .even-date time,
+.card-cont .even-info p {
+    display: table-cell
+}
+
+.card-cont .even-date i,
+.card-cont .even-info i {
+    padding: 5% 5% 0 0
+}
+
+.card-cont .even-info p {
+    padding: 30px 50px 0 0
+}
+
+.card-cont .even-date time span {
+    display: block
+}
+
+.card-cont a {
+    display: block;
+    text-decoration: none;
+    width: 100px;
+    height: 30px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 2px;
+    position: absolute;
+    right: 10px;
+    bottom: 10px
+}
+
+.row:last-child .card:first-child .card-cont a {
+    background-color: black
+}
+
+.row:last-child .card:last-child .card-cont a {
+    background-color: black;
+}
+
+    media screen and (max-width: 860px) {
+    .card {
+        display: block;
+        float: none;
+        width: 100%;
+        margin-bottom: 10px
+    }
+    .card+.card {
+        margin-left: 0
+    }
+    .card-cont .even-date,
+    .card-cont .even-info {
+        font-size: 75%
+    }
+}
+
+    </style>
+}
+<section class="container" style="margin-top: 100px; width: 1000px; background-color: black ">
+    <h1 style="text-align:center;font-weight:bold;">THẺ QUÀ TẶNG</h1>
+    <h2 style="color: white; font-family: Arial, sans-serif; font-weight: bold;">Điểm của bạn là : @ViewBag.Diem</h2>
+    @{
+        for (int i = 0; i < ViewBag.LoaiVoucher.Count; i += 2)
+        {
+            int maxIndex = ViewBag.LoaiVoucher.Count - 1;
+            var voucher1 = ViewBag.LoaiVoucher[i];
+            var voucher2 = (i + 1 <= maxIndex) ? ViewBag.LoaiVoucher[i + 1] : null;
+        <div class="row">
+            @if (voucher1 != null)
+            {<article class="card fl-left">
+                    <section class="date">
+                        <img src="~/IMG/@voucher1.img" style="width:100px;height:100px; margin-top:80px" />
+                    </section>
+                    <section class="card-cont">
+                        <small>Voucher</small>
+                        <h3>@voucher1.LoaiGiamGia</h3>
+                        <div class="even-date">
+                            <time>
+                                <span>HSD: Sau khi đổi 1 tháng</span>
+                                <span>Giảm giá @voucher1.GiamGia %</span>
+                            </time>
+                        </div>
+                        <div class="even-info">
+                            <p>
+                                Số lượng còn lại : @voucher1.sl
+                            </p>
+                        </div>
+                        <a href="#" onclick="confirmChangeVoucher('@voucher1.id','@voucher1.Diem','@voucher1.sl')">Đổi @voucher1.Diem</a>
+                    </section>
+                </article>
+
+            }
+            @if (voucher2 != null)
+            {
+                <article class="card fl-left">
+                    <section class="date">
+                        <img src="~/IMG/@voucher2.img" style="width:100px;height:100px; margin-top:80px" />
+                    </section>
+                    <section class="card-cont">
+                        <small>Voucher</small>
+                        <h3>@voucher2.LoaiGiamGia</h3>
+                        <div class="even-date">
+                            <time>
+                                <span>HSD: Sau khi đổi 1 tháng</span>
+                                <span>Giảm giá @voucher2.GiamGia %</span>
+                            </time>
+                        </div>
+                        <div class="even-info">
+                            <p>
+                                Số lượng còn lại : @voucher2.sl
+                            </p>
+                        </div>
+                        <a href="#" onclick="confirmChangeVoucher('@voucher2.id', '@voucher2.Diem','@voucher2.sl')">Đổi @voucher2.Diem</a>
+                    </section>
+                </article>
+            }
+
+
+        </div>
+        }
+    }
+
+
+
+
+</section>
+<script>
+     function confirmChangeVoucher(maVoucher, requiredDiem,sl) {
+        var currentDiem = @ViewBag.Diem; // Lấy giá trị điểm hiện tại từ ViewBag
+         if (sl == 0) {
+             alert("Đã hết lượt đổi voucher này.");
+             return;
+         }
+        if (currentDiem < requiredDiem) {
+            alert("Bạn không có đủ điểm để đổi voucher này.");
+        } else {
+            if (confirm("Bạn có chắc chắn muốn đổi voucher không?")) {
+                window.location.href = "@Url.Action("TrangDoiVoucher", "Home")?maVoucher=" + maVoucher;
+            }
+        }
+    }
+</script>

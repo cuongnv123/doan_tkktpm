@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DuAnRapChieuPhim\\DuAnRapChieuPhim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9752E0-18F6-4B80-B79A-DAA9C963A976}|DuAnRapChieuPhim\\DuAnRapChieuPhim.csproj|d:\\duanrapchieuphim\\duanrapchieuphim\\duanrapchieuphim\\areas\\admin\\views\\admin\\voucher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB9752E0-18F6-4B80-B79A-DAA9C963A976}|DuAnRapChieuPhim\\DuAnRapChieuPhim.csproj|solutionrelative:duanrapchieuphim\\areas\\admin\\views\\admin\\voucher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9752E0-18F6-4B80-B79A-DAA9C963A976}|DuAnRapChieuPhim\\DuAnRapChieuPhim.csproj|d:\\duanrapchieuphim\\duanrapchieuphim\\duanrapchieuphim\\areas\\admin\\views\\admin\\account.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB9752E0-18F6-4B80-B79A-DAA9C963A976}|DuAnRapChieuPhim\\DuAnRapChieuPhim.csproj|solutionrelative:duanrapchieuphim\\areas\\admin\\views\\admin\\account.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9752E0-18F6-4B80-B79A-DAA9C963A976}|DuAnRapChieuPhim\\DuAnRapChieuPhim.csproj|d:\\duanrapchieuphim\\duanrapchieuphim\\duanrapchieuphim\\areas\\admin\\controllers\\xulycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB9752E0-18F6-4B80-B79A-DAA9C963A976}|DuAnRapChieuPhim\\DuAnRapChieuPhim.csproj|solutionrelative:duanrapchieuphim\\areas\\admin\\controllers\\xulycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cshtml",
+              "DocumentMoniker": "D:\\DuAnRapChieuPhim\\DuAnRapChieuPhim\\DuAnRapChieuPhim\\Areas\\Admin\\Views\\Admin\\Account.cshtml",
+              "RelativeDocumentMoniker": "DuAnRapChieuPhim\\Areas\\Admin\\Views\\Admin\\Account.cshtml",
+              "ToolTip": "D:\\DuAnRapChieuPhim\\DuAnRapChieuPhim\\DuAnRapChieuPhim\\Areas\\Admin\\Views\\Admin\\Account.cshtml",
+              "RelativeToolTip": "DuAnRapChieuPhim\\Areas\\Admin\\Views\\Admin\\Account.cshtml",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAAALoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-02T13:03:23.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XuLyController.cs",
+              "DocumentMoniker": "D:\\DuAnRapChieuPhim\\DuAnRapChieuPhim\\DuAnRapChieuPhim\\Areas\\Admin\\Controllers\\XuLyController.cs",
+              "RelativeDocumentMoniker": "DuAnRapChieuPhim\\Areas\\Admin\\Controllers\\XuLyController.cs",
+              "ToolTip": "D:\\DuAnRapChieuPhim\\DuAnRapChieuPhim\\DuAnRapChieuPhim\\Areas\\Admin\\Controllers\\XuLyController.cs",
+              "RelativeToolTip": "DuAnRapChieuPhim\\Areas\\Admin\\Controllers\\XuLyController.cs",
+              "ViewState": "AQIAAEYDAAAAAAAAAAAtwFADAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T13:01:34.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Voucher.cshtml",
+              "DocumentMoniker": "D:\\DuAnRapChieuPhim\\DuAnRapChieuPhim\\DuAnRapChieuPhim\\Areas\\Admin\\Views\\Admin\\Voucher.cshtml",
+              "RelativeDocumentMoniker": "DuAnRapChieuPhim\\Areas\\Admin\\Views\\Admin\\Voucher.cshtml",
+              "ToolTip": "D:\\DuAnRapChieuPhim\\DuAnRapChieuPhim\\DuAnRapChieuPhim\\Areas\\Admin\\Views\\Admin\\Voucher.cshtml",
+              "RelativeToolTip": "DuAnRapChieuPhim\\Areas\\Admin\\Views\\Admin\\Voucher.cshtml",
+              "ViewState": "AQIAALgAAAAAAAAAAIAwwLwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-02T12:49:33.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

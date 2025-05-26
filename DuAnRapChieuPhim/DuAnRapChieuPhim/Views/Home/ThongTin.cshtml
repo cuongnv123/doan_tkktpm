@@ -1,0 +1,130 @@
+﻿@model DuAnRapChieuPhim.Models.ThongTinCaNhan
+
+@{
+    ViewBag.Title = "Thông Tin Cá Nhân";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+
+<style>
+    .card-header {
+        background-color: #333; /* Màu đen nhẹ cho background */
+        color: #fff; /* Màu trắng cho chữ trên header */
+        font-weight: bold; /* In đậm chữ */
+        border-bottom: none; /* Loại bỏ đường viền dưới cùng */
+    }
+
+    .card {
+        background-color: #222; /* Màu đen cho card */
+        color: #fff; /* Màu trắng cho nội dung card */
+        border: none; /* Loại bỏ đường viền */
+        border-radius: 10px; /* Bo góc */
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Đổ bóng */
+        transition: transform 0.3s ease; /* Hiệu ứng chuyển động mềm mại */
+    }
+
+        .card:hover {
+            transform: translateY(-5px); /* Di chuyển lên trên khi di chuột qua */
+        }
+
+    .btn-edit {
+        background-color: #007bff; /* Màu xanh dương cho nút chỉnh sửa */
+        color: #fff; /* Màu trắng cho chữ trên nút */
+        border: none; /* Loại bỏ đường viền */
+        border-radius: 20px; /* Bo góc */
+        padding: 8px 20px; /* Khoảng cách giữa nút và chữ */
+        transition: background-color 0.3s ease; /* Hiệu ứng chuyển đổi màu */
+    }
+
+        .btn-edit:hover {
+            background-color: #0056b3; /* Màu xanh dương sáng khi di chuột qua */
+        }
+
+    .form-control {
+        background-color: #333; /* Màu đen nhẹ cho ô input */
+        color: #000; /* Màu đen cho chữ trong ô input khi không hover */
+        border: none; /* Loại bỏ đường viền */
+        border-radius: 5px; /* Bo góc */
+        transition: color 0.3s ease; /* Hiệu ứng chuyển đổi màu */
+    }
+
+        .form-control:hover {
+            color: #fff; /* Màu trắng cho chữ trong ô input khi hover */
+        }
+
+        .form-control:focus {
+            background-color: #444; /* Màu đen nhạt khi ô input được focus */
+            color: #fff; /* Màu trắng cho chữ trong ô input khi focus */
+        }
+
+
+        .form-control:focus {
+            background-color: #444; /* Màu đen nhạt khi ô input được focus */
+            color: #fff; /* Màu trắng cho chữ trong ô input */
+        }
+
+    .custom-label {
+        font-weight: bold; /* In đậm chữ */
+    }
+</style>
+
+<div class="container mt-5" style="padding-top:50px;">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-header">
+                    <h2 class="mb-0 text-center">Thông Tin Cá Nhân</h2>
+                </div>
+                <div class="card-body">
+                    <form>
+                        <div class="form-group row">
+                            <label class="col-sm-4 col-form-label custom-label">Họ và Tên:</label>
+                            <div class="col-sm-8">
+                                <input type="text" class="form-control" value="@Model.Ten" readonly>
+                            </div>
+                        </div>
+
+                        <div class="form-group row">
+                            <label class="col-sm-4 col-form-label custom-label">Số Điện Thoại:</label>
+                            <div class="col-sm-8">
+                                <input type="text" class="form-control" value="@Model.SDT" readonly>
+                            </div>
+                        </div>
+
+                        <div class="form-group row">
+                            <label class="col-sm-4 col-form-label custom-label">Email:</label>
+                            <div class="col-sm-8">
+                                <input type="text" class="form-control" value="@Model.Email" readonly>
+                            </div>
+                        </div>
+
+                        <div class="form-group row">
+                            <label class="col-sm-4 col-form-label custom-label">Thông Tin Chi Tiêu:</label>
+                            <div class="col-sm-8">
+                                <input type="text" class="form-control" value="@Model.ThongTinChiTieu" readonly>
+                            </div>
+                        </div>
+
+                        <div class="form-group row">
+                            <label class="col-sm-4 col-form-label custom-label">Hạng:</label>
+                            <div class="col-sm-8">
+                                <input type="text" class="form-control" value="@Model.Hang" readonly>
+                            </div>
+                        </div>
+
+                        <div class="form-group row">
+                            <label class="col-sm-4 col-form-label custom-label">Điểm Thưởng:</label>
+                            <div class="col-sm-8">
+                                <input type="text" class="form-control" value="@Model.DiemThuong" readonly>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="text-center mt-3">
+    <a href="@Url.Action("EditTT", new { id = Model.MaKH })" class="btn btn-edit" style="width: 120px;">Chỉnh Sửa</a>
+</div>
+
